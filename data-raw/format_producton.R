@@ -1,36 +1,44 @@
-setwd('/Users/jhelvy/Dropbox/research/data/cars/oica/production/')
+library(tidyverse)
+library(rvest)
+library(janitor)
 
-library(jhelvyr)
-multiLibrary(c("ggplot2", "dplyr", "tidyr"))
+parse_table <- function(year) {
+    url_base <- "https://www.oica.net/category/production-statistics/"
+    url <- paste0(url_base, year, "-statistics/")
+    df <- read_html(url) %>%
+        html_table(header = TRUE, trim = TRUE)
+    df <- clean_names(df[[1]]) %>%
+        mutate(year = year)
+    return(df)
+}
 
-# Import data
-pcDataFile    ='./data/pcByCountry.csv'
-totalDataFile ='./data/totalByCountry.csv'
-pcData        = read.csv(pcDataFile, header=T, stringsAsFactors=F)
-totalData     = read.csv(totalDataFile, header=T, stringsAsFactors=F)
+tables <- lapply(seq(2006, 2021), parse_table)
 
-# Format data for plotting
-pcData = pcData %>%
-    gather(year, pcProduction, X1999:X2016) %>%
-    separate(year, into=c('drop', 'year'), sep='X') %>%
-    select(-drop)
-totalData = totalData %>%
-    gather(year, totalProduction, X1999:X2016) %>%
-    separate(year, into=c('drop', 'year'), sep='X') %>%
-    select(-drop)
-data = pcData %>%
-    left_join(totalData) %>%
-    mutate(cvProduction=totalProduction - pcProduction) %>%
-    select(country, year, pcProduction, cvProduction, totalProduction)
+production <- do.call(rbind, tables) %>%
+    mutate(
+        country = str_to_title(country_region),
+        pv = parse_number(cars),
+        cv = parse_number(commercial_vehicles, na = c("N.A.", "-"))) %>%
+    select(year, country, pv, cv) %>%
+    filter(! country %in% c("Total", "Totals")) %>%
+    pivot_longer(
+        names_to = "type",
+        values_to = "n",
+        pv:cv
+    ) %>%
+    # Harmonize some country names
+    mutate(
+        country = case_when(
+            country == "Czech Rep." ~ "Czech Republic",
+            country == "Usa" ~ "USA",
+            country == "Uk" ~ "United Kingdom",
+            country == "Supplementary" ~ "Others",
+            TRUE ~ country
+        )
+    )
 
-write.csv(data, file='./data/productionData.csv', row.names=F)
-
-
-
-
-
-
+# Save as csv
+write_csv(production, file.path("data-raw", "production.csv"))
 
 # Save the datasets
-usethis::use_data(cars_us, overwrite = TRUE)
-usethis::use_data(cars_china, overwrite = TRUE)
+usethis::use_data(production, overwrite = TRUE)
