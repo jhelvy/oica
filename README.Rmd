@@ -40,6 +40,17 @@ Load the library with:
 library("oica")
 ```
 
+## Data Sources
+
+The data in this package come from two sources:
+
+- Vehicles sales and production data come from the [Organisation Internationale des Constructeurs d'Automobiles (OICA)](https://www.oica.net/) (English Name: "International Organization of Motor Vehicle Manufacturers")
+- Standard country / area codes come from the [United Nations Statistics Division](https://unstats.un.org/unsd/methodology/m49/overview/)
+
+## Usage
+
+
+
 ## Author, Version, and License Information
 
 - Author: *John Paul Helveston* https://www.jhelvy.com/
