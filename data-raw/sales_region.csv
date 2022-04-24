@@ -1,0 +1,335 @@
+region,year,sales,type
+Africa,2005,784237,pc
+Africa,2005,328780,cv
+Africa,2006,926966,pc
+Africa,2006,387309,cv
+Africa,2007,939201,pc
+Africa,2007,382773,cv
+Africa,2008,889206,pc
+Africa,2008,366645,cv
+Africa,2009,827160,pc
+Africa,2009,331614,cv
+Africa,2010,908357,pc
+Africa,2010,342864,cv
+Africa,2011,1050745,pc
+Africa,2011,396182,cv
+Africa,2012,1154025,pc
+Africa,2012,415438,cv
+Africa,2013,1196833,pc
+Africa,2013,456754,cv
+Africa,2014,1246318,pc
+Africa,2014,471603,cv
+Africa,2015,1128433,pc
+Africa,2015,421123,cv
+Africa,2016,981214,pc
+Africa,2016,333249,cv
+Africa,2017,842835,pc
+Africa,2017,294646,cv
+Africa,2018,921623,pc
+Africa,2018,307301,cv
+Africa,2019,868928,pc
+Africa,2019,308319,cv
+Africa,2020,664795,pc
+Africa,2020,259251,cv
+Africa,2021,833015,pc
+Africa,2021,311992,cv
+All Countries,2005,45407298,pc
+All Countries,2005,20516496,cv
+All Countries,2006,47955259,pc
+All Countries,2006,20398117,cv
+All Countries,2007,50834531,pc
+All Countries,2007,20728868,cv
+All Countries,2008,49978237,pc
+All Countries,2008,18337258,cv
+All Countries,2009,49654985,pc
+All Countries,2009,15913844,cv
+All Countries,2010,55818570,pc
+All Countries,2010,19152953,cv
+All Countries,2011,57839953,pc
+All Countries,2011,20330467,cv
+All Countries,2012,60936407,pc
+All Countries,2012,21192731,cv
+All Countries,2013,63429200,pc
+All Countries,2013,22176936,cv
+All Countries,2014,65708230,pc
+All Countries,2014,22629868,cv
+All Countries,2015,66314155,pc
+All Countries,2015,23370453,cv
+All Countries,2016,69464431.76968217,pc
+All Countries,2016,24391956,cv
+All Countries,2017,70694834,pc
+All Countries,2017,24965772,cv
+All Countries,2018,68678212,pc
+All Countries,2018,26971331,cv
+All Countries,2019,64341693,pc
+All Countries,2019,27016764,cv
+All Countries/Regions,2020,53917153,pc
+All Countries/Regions,2020,24857167,cv
+All Countries/Regions,2021,56398471,pc
+All Countries/Regions,2021,26286317,cv
+America,2005,11618929,pc
+America,2005,11719925,cv
+America,2006,12048814,pc
+America,2006,11307861,cv
+America,2007,12522371,pc
+America,2007,11086694,cv
+America,2008,11877523,pc
+America,2008,9025378,cv
+America,2009,10280682,pc
+America,2009,7216363,cv
+America,2010,11131614,pc
+America,2010,8588367,cv
+America,2011,11947951,pc
+America,2011,9630088,cv
+America,2012,13389456,pc
+America,2012,10281437,cv
+America,2013,13819830,pc
+America,2013,11210175,cv
+America,2014,13464567,pc
+America,2014,12010964,cv
+America,2015,12664453,pc
+America,2015,13023706,cv
+America,2016,11746160,pc
+America,2016,13803052,cv
+America,2017,11283401,pc
+America,2017,14169953,cv
+America,2018,10562992,pc
+America,2018,15152399,cv
+America,2019,9540192,pc
+America,2019,15768984,cv
+America,2020,6864024,pc
+America,2020,13950808,cv
+America,2021,7024288,pc
+America,2021,14976864,cv
+Asean,2020,1650462,pc
+Asean,2020,806874,cv
+Asean,2021,1875335,pc
+Asean,2021,904503,cv
+Asia/Oceania/Middle East,2005,15097677,pc
+Asia/Oceania/Middle East,2005,5310920,cv
+Asia/Oceania/Middle East,2006,16293923,pc
+Asia/Oceania/Middle East,2006,5524663,cv
+Asia/Oceania/Middle East,2007,17754371,pc
+Asia/Oceania/Middle East,2007,5871267,cv
+Asia/Oceania/Middle East,2008,18389909,pc
+Asia/Oceania/Middle East,2008,5894404,cv
+Asia/Oceania/Middle East,2009,21938382,pc
+Asia/Oceania/Middle East,2009,6329277,cv
+Asia/Oceania/Middle East,2010,27278736,pc
+Asia/Oceania/Middle East,2010,7912897,cv
+Asia/Oceania/Middle East,2011,27673657,pc
+Asia/Oceania/Middle East,2011,7731778,cv
+Asia/Oceania/Middle East,2012,30201657,pc
+Asia/Oceania/Middle East,2012,8023947,cv
+Asia/Oceania/Middle East,2013,32470264,pc
+Asia/Oceania/Middle East,2013,8108871,cv
+Asia/Oceania/Middle East,2014,34843066,pc
+Asia/Oceania/Middle East,2014,7713930,cv
+Asia/Oceania/Middle East,2015,36110706,pc
+Asia/Oceania/Middle East,2015,7300198,cv
+Asia/Oceania/Middle East,2016,39445239,pc
+Asia/Oceania/Middle East,2016,7412645,cv
+Asia/Oceania/Middle East,2017,40594317,pc
+Asia/Oceania/Middle East,2017,7720355,cv
+Asia/Oceania/Middle East,2018,39283920,pc
+Asia/Oceania/Middle East,2018,8363201,cv
+Asia/Oceania/Middle East,2019,35959799,pc
+Asia/Oceania/Middle East,2019,8043351,cv
+Asia/Oceania/Middle East,2020,32210364,pc
+Asia/Oceania/Middle East,2020,8112180,cv
+Asia/Oceania/Middle East,2021,34520682,pc
+Asia/Oceania/Middle East,2021,8143054,cv
+Central & South America,2005,2397500,pc
+Central & South America,2005,698375,cv
+Central & South America,2006,2747450,pc
+Central & South America,2006,710201,cv
+Central & South America,2007,3477058,pc
+Central & South America,2007,830528,cv
+Central & South America,2008,3646651,pc
+Central & South America,2008,1015799,cv
+Central & South America,2009,3711649,pc
+Central & South America,2009,926045,cv
+Central & South America,2010,4298085,pc
+Central & South America,2010,1217935,cv
+Central & South America,2011,4584491,pc
+Central & South America,2011,1395934,cv
+Central & South America,2012,4749693,pc
+Central & South America,2012,1394512,cv
+Central & South America,2013,4780657,pc
+Central & South America,2013,1484840,cv
+Central & South America,2014,4269758,pc
+Central & South America,2014,1295617,cv
+Central & South America,2015,3543111,pc
+Central & South America,2015,970433,cv
+Central & South America,2016,3146431,pc
+Central & South America,2016,905540,cv
+Central & South America,2017,3579086,pc
+Central & South America,2017,754450,cv
+Central & South America,2018,3810517,pc
+Central & South America,2018,942453,cv
+Central & South America,2019,3566864,pc
+Central & South America,2019,926782,cv
+Central & South America,2020,2611003,pc
+Central & South America,2020,758349,cv
+Central & South America,2021,2833521,pc
+Central & South America,2021,1007511,cv
+EU,2005,15622035,pc
+EU,2005,2564001,cv
+EU,2006,15961138,pc
+EU,2006,2555352,cv
+EU,2007,16147274,pc
+EU,2007,2722937,cv
+EU,2008,14911880,pc
+EU,2008,2474026,cv
+EU,2009,14533115,pc
+EU,2009,1693598,cv
+EU,2010,13830694,pc
+EU,2010,1834396,cv
+EU,2011,13642659,pc
+EU,2011,2021778,cv
+EU,2012,12567903,pc
+EU,2012,1790428,cv
+EU,2013,12344415,pc
+EU,2013,1791626,cv
+EU,2014,13061461,pc
+EU,2014,1933900,cv
+EU,2015,14287881,pc
+EU,2015,2166400,cv
+EU,2016,15160239,pc
+EU,2016,2408210,cv
+EU,2017,15631283,pc
+EU,2017,2290635,cv
+EU,2018,15636484,pc
+EU,2018,2389382,cv
+EU,2019,15819949,pc
+EU,2019,2490496,cv
+EU,2020,11955992,pc
+EU,2020,2123764,cv
+EU,2021,11782751,pc
+EU,2021,2350868,cv
+Europe,2005,17906455,pc
+Europe,2005,3156871,cv
+Europe,2006,18685556,pc
+Europe,2006,3178284,cv
+Europe,2007,19618588,pc
+Europe,2007,3388134,cv
+Europe,2008,18821599,pc
+Europe,2008,3050831,cv
+Europe,2009,16608761,pc
+Europe,2009,2036590,cv
+Europe,2010,16499863,pc
+Europe,2010,2308825,cv
+Europe,2011,17167600,pc
+Europe,2011,2572419,cv
+Europe,2012,16191269,pc
+Europe,2012,2471909,cv
+Europe,2013,15942273,pc
+Europe,2013,2401136,cv
+Europe,2014,16154279,pc
+Europe,2014,2433371,cv
+Europe,2015,16410563,pc
+Europe,2015,2625426,cv
+Europe,2016,17291819,pc
+Europe,2016,2843010,cv
+Europe,2017,17974281,pc
+Europe,2017,2780818,cv
+Europe,2018,17909677,pc
+Europe,2018,2785551,cv
+Europe,2019,17972774,pc
+Europe,2019,2834391,cv
+Europe,2020,14177970,pc
+Europe,2020,2534928,cv
+Europe,2021,14020486,pc
+Europe,2021,2854407,cv
+Nafta,2005,9221429,pc
+Nafta,2005,11021550,cv
+Nafta,2006,9301364,pc
+Nafta,2006,10597660,cv
+Nafta,2007,9045313,pc
+Nafta,2007,10256166,cv
+Nafta,2008,8230872,pc
+Nafta,2008,8009579,cv
+Nafta,2009,6569033,pc
+Nafta,2009,6290318,cv
+Nafta,2010,6833529,pc
+Nafta,2010,7370432,cv
+Nafta,2011,7363460,pc
+Nafta,2011,8234154,cv
+Nafta,2012,8639763,pc
+Nafta,2012,8886925,cv
+Nafta,2013,9039173,pc
+Nafta,2013,9725335,cv
+Nafta,2014,9194809,pc
+Nafta,2014,10715347,cv
+Nafta,2015,9121342,pc
+Nafta,2015,12053273,cv
+Nafta,2016,8599729,pc
+Nafta,2016,12897512,cv
+Nafta,2017,7704315,pc
+Nafta,2017,14169953,cv
+Nafta,2018,6752475,pc
+Nafta,2018,15152399,cv
+Nafta,2019,5973328,pc
+Nafta,2019,14842202,cv
+Nafta,2020,4253021,pc
+Nafta,2020,13192459,cv
+Nafta,2021,4190767,pc
+Nafta,2021,13969353,cv
+Other Countries,2020,182625,pc
+Other Countries,2020,33285,cv
+Other Countries,2021,194715,pc
+Other Countries,2021,42488,cv
+Other Countries/Regions,2020,92463,pc
+Other Countries/Regions,2020,189795,pc
+Other Countries/Regions,2020,294228,pc
+Other Countries/Regions,2020,133416,pc
+Other Countries/Regions,2020,14380,cv
+Other Countries/Regions,2020,64175,cv
+Other Countries/Regions,2020,105352,cv
+Other Countries/Regions,2020,64957,cv
+Other Countries/Regions,2021,82252,pc
+Other Countries/Regions,2021,244814,pc
+Other Countries/Regions,2021,320408,pc
+Other Countries/Regions,2021,159319,pc
+Other Countries/Regions,2021,14567,cv
+Other Countries/Regions,2021,93097,cv
+Other Countries/Regions,2021,115346,cv
+Other Countries/Regions,2021,67955,cv
+"Russia, Turkey & Other Europe",2005,2284420,pc
+"Russia, Turkey & Other Europe",2005,592870,cv
+"Russia, Turkey & Other Europe",2006,2724418,pc
+"Russia, Turkey & Other Europe",2006,622932,cv
+"Russia, Turkey & Other Europe",2007,3471314,pc
+"Russia, Turkey & Other Europe",2007,665197,cv
+"Russia, Turkey & Other Europe",2008,3909719,pc
+"Russia, Turkey & Other Europe",2008,576805,cv
+"Russia, Turkey & Other Europe",2009,2075646,pc
+"Russia, Turkey & Other Europe",2009,342992,cv
+"Russia, Turkey & Other Europe",2010,2669169,pc
+"Russia, Turkey & Other Europe",2010,474429,cv
+"Russia, Turkey & Other Europe",2011,3524941,pc
+"Russia, Turkey & Other Europe",2011,550641,cv
+"Russia, Turkey & Other Europe",2012,3623366,pc
+"Russia, Turkey & Other Europe",2012,681481,cv
+"Russia, Turkey & Other Europe",2013,3597858,pc
+"Russia, Turkey & Other Europe",2013,609510,cv
+"Russia, Turkey & Other Europe",2014,3092818,pc
+"Russia, Turkey & Other Europe",2014,499471,cv
+"Russia, Turkey & Other Europe",2015,2122682,pc
+"Russia, Turkey & Other Europe",2015,459026,cv
+"Russia, Turkey & Other Europe",2016,2131580,pc
+"Russia, Turkey & Other Europe",2016,434800,cv
+"Russia, Turkey & Other Europe",2017,2342998,pc
+"Russia, Turkey & Other Europe",2017,490183,cv
+"Russia, Turkey & Other Europe",2018,2273193,pc
+"Russia, Turkey & Other Europe",2018,396169,cv
+"Russia, Turkey & Other Europe",2019,2152825,pc
+"Russia, Turkey & Other Europe",2019,343895,cv
+"Russia, Turkey & Other Europe",2020,2221978,pc
+"Russia, Turkey & Other Europe",2020,411164,cv
+"Russia, Turkey & Other Europe",2021,2237735,pc
+"Russia, Turkey & Other Europe",2021,503539,cv
+Total Oica Members,2020,47930408,pc
+Total Oica Members,2020,22005464,cv
+Total Oica Members,2021,49761621,pc
+Total Oica Members,2021,22957816,cv
