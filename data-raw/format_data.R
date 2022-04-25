@@ -4,6 +4,78 @@ library(janitor)
 library(readxl)
 options(dplyr.width = Inf)
 
+# Standard country / area codes from UN
+
+world_regions <- read_excel(
+    file.path('data-raw', 'raw', 'un_country_data.xlsx')) %>%
+    clean_names() %>%
+    select(
+        country = country_or_area,
+        region = region_name,
+        subregion = sub_region_name,
+        intermediate_region = intermediate_region_name,
+        least_developed = least_developed_countries_ldc,
+        land_locked_developing = land_locked_developing_countries_lldc,
+        small_island_developing = small_island_developing_states_sids,
+        code_region = region_code,
+        code_subregion = sub_region_code,
+        code_intermediate_region = intermediate_region_code,
+        code_m49 = m49_code,
+        code_iso_alpha2 = iso_alpha2_code,
+        code_iso_alpha3 = iso_alpha3_code
+    ) %>%
+    mutate(
+        least_developed = ifelse(is.na(least_developed), 0, 1),
+        land_locked_developing = ifelse(is.na(land_locked_developing), 0, 1),
+        small_island_developing = ifelse(is.na(small_island_developing), 0, 1)
+    ) %>%
+    # Make column for mis-matching country names to match OICA names
+    mutate(
+        country_oica = case_when(
+            country == 'Bolivia (Plurinational State of)' ~ 'Bolivia',
+            country == 'Bosnia and Herzegovina' ~ 'Bosnia',
+            country == 'Brunei Darussalam' ~ 'Brunei',
+            country == 'China, Hong Kong Special Administrative Region' ~ 'Hong Kong',
+            country == 'Czechia' ~ 'Czech Republic',
+            country == 'Iran (Islamic Republic of)' ~ 'Iran',
+            country == "Lao People's Democratic Republic" ~ 'Laos',
+            country == 'Republic of Korea' ~ 'South Korea',
+            country == 'Republic of Moldova' ~ 'Moldova',
+            country == 'Réunion' ~ 'Reunion',
+            country == 'Russian Federation' ~ 'Russia',
+            country == 'State of Palestine' ~ 'Palestine',
+            country == 'Syrian Arab Republic' ~ 'Syria',
+            country == 'United Kingdom of Great Britain and Northern Ireland' ~ 'United Kingdom',
+            country == 'United Republic of Tanzania' ~ 'Tanzania',
+            country == 'United States of America' ~ 'USA',
+            country == 'Venezuela (Bolivarian Republic of)' ~ 'Venezuela',
+            country == 'Viet Nam' ~ 'Vietnam',
+            TRUE ~ country
+        )
+    ) %>%
+    # Add Taiwan
+    rbind(data.frame(
+        country = 'Taiwan',
+        region = 'Asia',
+        subregion = 'Eastern Asia',
+        intermediate_region = NA,
+        least_developed = 0,
+        land_locked_developing = 0,
+        small_island_developing = 0,
+        code_region = 142,
+        code_subregion = 30,
+        code_intermediate_region = NA,
+        code_m49 = NA,
+        code_iso_alpha2 = 'CN-TW',
+        code_iso_alpha3 = 'TWN',
+        country_oica = 'Taiwan'
+    ))
+
+write_csv(world_regions, file.path("data-raw", "world_regions.csv"))
+
+
+
+
 # Production Data ----
 
 # Function for scraping the production data table out of the web page
@@ -43,7 +115,13 @@ production <- do.call(rbind, tables) %>%
             country == "Supplementary" ~ "Others",
             TRUE ~ country
         )
-    )
+    ) %>%
+    # Join region data
+    left_join(
+        world_regions %>%
+            select(-country) %>%
+            rename(country = country_oica),
+        by = 'country')
 
 # Save as csv
 write_csv(production, file.path("data-raw", "production.csv"))
@@ -60,13 +138,13 @@ write_csv(production, file.path("data-raw", "production.csv"))
 
 # 2005 - 2019
 
-pc <- read_excel(file.path('data-raw', 'sales', 'pc-sales-2019.xlsx'), skip = 5)
+pc <- read_excel(file.path('data-raw', 'raw', 'pc-sales-2019.xlsx'), skip = 5)
 pc$country <- str_to_title(pc$'REGIONS/COUNTRIES')
 pc <- pc %>%
     gather(year, sales, '2005':'2019') %>%
     select(country, year, sales) %>%
     mutate(type = 'pc')
-cv <- read_excel(file.path('data-raw', 'sales', 'cv-sales-2019.xlsx'), skip = 5)
+cv <- read_excel(file.path('data-raw', 'raw', 'cv-sales-2019.xlsx'), skip = 5)
 cv$country <- str_to_title(cv$'REGIONS/COUNTRIES')
 cv <- cv %>%
     gather(year, sales, '2005':'2019') %>%
@@ -84,13 +162,13 @@ df_05_19 <- rbind(pc, cv) %>%
     )
 
 # 2020 - 2021
-pc <- read_excel(file.path('data-raw', 'sales', 'pc-sales-2021.xlsx'), skip = 3)
+pc <- read_excel(file.path('data-raw', 'raw', 'pc-sales-2021.xlsx'), skip = 3)
 pc$country <- str_to_title(pc$'REGIONS/COUNTRIES')
 pc <- pc %>%
     gather(year, sales, 'Q1-Q4 2019':'Q1-Q4 2021') %>%
     select(country, year, sales) %>%
     mutate(type = 'pc')
-cv <- read_excel(file.path('data-raw', 'sales', 'cv-sales-2021.xlsx'), skip = 3)
+cv <- read_excel(file.path('data-raw', 'raw', 'cv-sales-2021.xlsx'), skip = 3)
 cv$country <- str_to_title(cv$'REGIONS/COUNTRIES')
 cv <- cv %>%
     gather(year, sales, 'Q1-Q4 2019':'Q1-Q4 2021') %>%
@@ -103,41 +181,47 @@ df_20_21 <- rbind(pc, cv) %>%
         year = as.numeric(str_replace(year, "Q1-Q4 ", ""))) %>%
     filter(year > 2019)
 
-# Merge years
-df <- rbind(df_05_19, df_20_21)
-
-# Fix country name irregularities
-countryNames <- data.frame(
-    country = c(
-        'Switzerland (+Fl)', 'Congo Kinshasa', 'Moldavia',
-        'United States Of America', 'Azerbaidjan', 'Cambodge',
-        'Hong-Kong', 'Irak', 'Kazakstan', 'Kirghizistan', 'Tadjikistan',
-        'Tahiti', 'Tukmenistan', 'Burkina', 'Guiana (French)', 'Guiana',
-        'Bulgaria1', 'Mexico2'),
-    goodName = c(
-        'Switzerland', 'Congo', 'Moldova', 'United States',
-        'Azerbaijan', 'Cambodia', 'Hong Kong', 'Iraq', 'Kazakhstan',
-        'Kyrgyzstan', 'Tajikistan', 'French Polynesia',
-        'Turkmenistan', 'Burkina Faso', 'French Guiana', 'French Guiana',
-        'Bulgaria', 'Mexico'))
-df <- df %>%
-    left_join(countryNames, by = "country") %>%
+# Merge years and fix country name irregularities
+df <- rbind(df_05_19, df_20_21) %>%
     mutate(
-        goodName=ifelse(is.na(goodName), country, as.character(goodName)),
-        country=goodName) %>%
-    select(-goodName)
+        country = case_when(
+            country == 'Switzerland (+Fl)' ~ 'Switzerland',
+            country == 'Congo Kinshasa' ~ 'Congo',
+            country == 'Moldavia' ~ 'Moldova',
+            country == 'United States Of America' ~ 'USA',
+            country == 'Azerbaidjan' ~ 'Azerbaijan',
+            country == 'Cambodge' ~ 'Cambodia',
+            country == 'Hong-Kong' ~ 'Hong Kong',
+            country == 'Irak' ~ 'Iraq',
+            country == 'Kazakstan' ~ 'Kazakhstan',
+            country == 'Kirghizistan' ~ 'Kyrgyzstan',
+            country == 'Tadjikistan' ~ 'Tajikistan',
+            country == 'Tahiti French Polynesia' ~ 'French Polynesia',
+            country == 'Tahiti' ~ 'French Polynesia',
+            country == 'Tukmenistan' ~ 'Turkmenistan',
+            country == 'Trinidad' ~ 'Trinidad and Tobago',
+            country == 'Burkina' ~ 'Burkina Faso',
+            country == 'Guiana (French)' ~ 'French Guiana',
+            country == 'Guiana' ~ 'French Guiana',
+            country == 'Bulgaria1' ~ 'Bulgaria',
+            country == 'Mexico2' ~ 'Mexico',
+            TRUE ~ country
+        )
+    )
 
-# Add region and continent data
-worldRegions <- read_csv(file.path('data-raw', 'worldRegions.csv'))
+# Join region data
 df <- df %>%
-    left_join(worldRegions, by = "country") %>%
-    arrange(year, country)
+    left_join(
+    world_regions %>%
+        select(-country) %>%
+        rename(country = country_oica),
+    by = 'country') %>%
+    select(year, country, type, n = sales, everything())
 
 # Separate out countries and regions
 sales_region <- df %>%
-    filter(is.na(region) == T) %>%
-    mutate(region = country) %>%
-    select(region, year, sales, type) %>%
+    filter(is.na(region) == TRUE) %>%
+    select(year, region = country, type, n) %>%
     mutate(
         region = ifelse(
             region %in% c(
