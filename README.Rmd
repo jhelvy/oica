@@ -22,7 +22,13 @@ knitr::opts_chunk$set(
 status](https://www.r-pkg.org/badges/version/oica)](https://CRAN.R-project.org/package=oica)
 <!-- badges: end -->
 
-Description
+This package contains some tidy formatted data on vehicle production and sales from the [Organisation Internationale des Constructeurs d'Automobiles (OICA)](https://www.oica.net/) (English Name: "International Organization of Motor Vehicle Manufacturers"). The data sets are also merged with standard country / area codes come from the [United Nations Statistics Division](https://unstats.un.org/unsd/methodology/m49/overview/). The package contains the following data sets:
+
+Name | Description
+-----|-------------
+`production` | Vehicle [production statistics](https://www.oica.net/category/production-statistics/) by country and type
+`sales_country` | Vehicle [sales statistics](https://www.oica.net/category/sales-statistics/) by country and type
+`sales_region` | Vehicle [sales statistics](https://www.oica.net/category/sales-statistics/) by region and type
 
 ## Installation
 
@@ -40,16 +46,17 @@ Load the library with:
 library("oica")
 ```
 
-## Data Sources
-
-The data in this package come from two sources:
-
-- Vehicles sales and production data come from the [Organisation Internationale des Constructeurs d'Automobiles (OICA)](https://www.oica.net/) (English Name: "International Organization of Motor Vehicle Manufacturers")
-- Standard country / area codes come from the [United Nations Statistics Division](https://unstats.un.org/unsd/methodology/m49/overview/)
-
 ## Usage
 
+Once loaded, you can work with any of the three data sets. You can find out more about each data set using `?`, e.g., `?production`.
 
+Here is a quick preview of each data frame:
+
+```{r}
+head(production)
+head(sales_country)
+head(sales_region)
+```
 
 ## Author, Version, and License Information
 
