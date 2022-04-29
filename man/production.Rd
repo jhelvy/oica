@@ -3,21 +3,39 @@
 \docType{data}
 \name{production}
 \alias{production}
-\title{Description}
+\title{Vehicle production statistics by country and type}
 \format{
 \tabular{ll}{
    Variable \tab Description \cr
-   \code{var} \tab Description \cr
+   \code{year} \tab Year (2006 - 2021) \cr
+   \code{country} \tab Country name \cr
+   \code{type} \tab Vehicle type: pv = passenger vehicle, cv = commercial vehicle \cr
+   \code{n} \tab Number of vehicles produced \cr
+   \code{region} \tab Country region (continent) \cr
+   \code{subregion} \tab Country subregion \cr
+   \code{intermediate_region} \tab Country intermediate region \cr
+   \code{least_developed} \tab Dummy variable; is country least developed? \cr
+   \code{land_locked_developing} \tab Dummy variable; is country land-locked developing? \cr
+   \code{small_island_developing} \tab Dummy variable; is country small island developing? \cr
+   \code{code_region} \tab Country region code \cr
+   \code{code_subregion} \tab Country subregion code \cr
+   \code{code_intermediate_region} \tab Country intermediate region code \cr
+   \code{code_m49} \tab Country M49 code \cr
+   \code{code_iso_alpha2} \tab Country ISO alpha 2 code \cr
+   \code{code_iso_alpha3} \tab Country ISO alpha 3 code \cr
 }
 }
 \source{
-Raw data downloaded from \href{url}{text}
+Raw data downloaded from the \href{https://www.oica.net/}{Organisation Internationale des Constructeurs d'Automobiles (OICA)} and the \href{https://unstats.un.org/unsd/methodology/m49/overview/}{United Nations Statistics Division}
 }
 \usage{
 data(production)
 }
 \description{
-Detailed description
+This data frame contains annual data on vehicle production statistics by
+country and type between the years 2006 and 2021 (inclusive) from the OICA.
+Standard country / area codes come from the United Nations Statistics
+Division. The table below shows a detailed description of each variable.
 }
 \examples{
 data(production)
