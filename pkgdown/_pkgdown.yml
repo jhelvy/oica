@@ -24,7 +24,9 @@ navbar:
      href: https://github.com/jhelvy/oica
 
 reference:
-- title: "Main"
-  desc: "Functions"
+- title: "Data"
+  desc: "Each of the following are data frames contained in this package"
   contents:
-  - df
+  - production
+  - sales_country
+  - sales_region

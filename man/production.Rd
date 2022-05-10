@@ -26,7 +26,10 @@
 }
 }
 \source{
-Raw data downloaded from the \href{https://www.oica.net/}{Organisation Internationale des Constructeurs d'Automobiles (OICA)} and the \href{https://unstats.un.org/unsd/methodology/m49/overview/}{United Nations Statistics Division}
+Raw data downloaded from the
+\href{https://www.oica.net/}{Organisation Internationale des Constructeurs d'Automobiles (OICA)}
+and the
+\href{https://unstats.un.org/unsd/methodology/m49/overview/}{United Nations Statistics Division}
 }
 \usage{
 data(production)
