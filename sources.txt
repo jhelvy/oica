@@ -1,5 +1,0 @@
-sales:
-http://www.oica.net/category/sales-statistics/
-
-production:
-http://www.oica.net/category/production-statistics/
