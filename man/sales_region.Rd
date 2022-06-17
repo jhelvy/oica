@@ -3,21 +3,30 @@
 \docType{data}
 \name{sales_region}
 \alias{sales_region}
-\title{Description}
+\title{Vehicle sales statistics by region and type}
 \format{
 \tabular{ll}{
    Variable \tab Description \cr
-   \code{var} \tab Description \cr
+   \code{year} \tab Year (2005 - 2021) \cr
+   \code{region} \tab Region name \cr
+   \code{type} \tab Vehicle type: pv = passenger vehicle, cv = commercial vehicle \cr
+   \code{n} \tab Number of vehicles produced \cr
 }
 }
 \source{
-Raw data downloaded from \href{url}{text}
+Raw data downloaded from the
+\href{https://www.oica.net/}{Organisation Internationale des Constructeurs d'Automobiles (OICA)}
+and the
+\href{https://unstats.un.org/unsd/methodology/m49/overview/}{United Nations Statistics Division}
 }
 \usage{
 data(sales_region)
 }
 \description{
-Detailed description
+This data frame contains annual data on vehicle sales statistics by
+region and type between the years 2005 and 2021 (inclusive) from the OICA.
+Standard country / area codes come from the United Nations Statistics
+Division. The table below shows a detailed description of each variable.
 }
 \examples{
 data(sales_region)
