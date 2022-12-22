@@ -109,11 +109,11 @@
 </h2>
 <p>The current version is not yet on CRAN, but you can install it from Github using the {remotes} library:</p>
 <div class="sourceCode" id="cb1"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span class="co"># install.packages("remotes")</span>
-<span class="fu">remotes</span><span class="fu">::</span><span class="fu"><a href="https://remotes.r-lib.org/reference/install_github.html" class="external-link">install_github</a></span><span class="op">(</span><span class="st">"jhelvy/oica"</span><span class="op">)</span></code></pre></div>
+<code class="sourceCode R"><span><span class="co"># install.packages("remotes")</span></span>
+<span><span class="fu">remotes</span><span class="fu">::</span><span class="fu"><a href="https://remotes.r-lib.org/reference/install_github.html" class="external-link">install_github</a></span><span class="op">(</span><span class="st">"jhelvy/oica"</span><span class="op">)</span></span></code></pre></div>
 <p>Load the library with:</p>
 <div class="sourceCode" id="cb2"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="st"><a href="https://github.com/jhelvy/oica" class="external-link">"oica"</a></span><span class="op">)</span></code></pre></div>
+<code class="sourceCode R"><span><span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="st"><a href="https://github.com/jhelvy/oica" class="external-link">"oica"</a></span><span class="op">)</span></span></code></pre></div>
 </div>
 <div class="section level2">
 <h2 id="usage">Usage<a class="anchor" aria-label="anchor" href="#usage"></a>
@@ -121,72 +121,72 @@
 <p>Once loaded, you can work with any of the three data sets. You can find out more about each data set using <code>?</code>, e.g., <code><a href="reference/production.html">?production</a></code>.</p>
 <p>Here is a quick preview of each data frame:</p>
 <div class="sourceCode" id="cb3"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span class="fu"><a href="https://rdrr.io/r/utils/head.html" class="external-link">head</a></span><span class="op">(</span><span class="va">production</span><span class="op">)</span>
-<span class="co">#&gt;   year   country type      n   region                       subregion</span>
-<span class="co">#&gt; 1 2006 Argentina   pv 263120 Americas Latin America and the Caribbean</span>
-<span class="co">#&gt; 2 2006 Argentina   cv 168981 Americas Latin America and the Caribbean</span>
-<span class="co">#&gt; 3 2006 Australia   pv 270000  Oceania       Australia and New Zealand</span>
-<span class="co">#&gt; 4 2006 Australia   cv  60900  Oceania       Australia and New Zealand</span>
-<span class="co">#&gt; 5 2006   Austria   pv 248059   Europe                  Western Europe</span>
-<span class="co">#&gt; 6 2006   Austria   cv  26873   Europe                  Western Europe</span>
-<span class="co">#&gt;   intermediate_region least_developed land_locked_developing</span>
-<span class="co">#&gt; 1       South America               0                      0</span>
-<span class="co">#&gt; 2       South America               0                      0</span>
-<span class="co">#&gt; 3                &lt;NA&gt;               0                      0</span>
-<span class="co">#&gt; 4                &lt;NA&gt;               0                      0</span>
-<span class="co">#&gt; 5                &lt;NA&gt;               0                      0</span>
-<span class="co">#&gt; 6                &lt;NA&gt;               0                      0</span>
-<span class="co">#&gt;   small_island_developing code_region code_subregion code_intermediate_region</span>
-<span class="co">#&gt; 1                       0          19            419                        5</span>
-<span class="co">#&gt; 2                       0          19            419                        5</span>
-<span class="co">#&gt; 3                       0           9             53                       NA</span>
-<span class="co">#&gt; 4                       0           9             53                       NA</span>
-<span class="co">#&gt; 5                       0         150            155                       NA</span>
-<span class="co">#&gt; 6                       0         150            155                       NA</span>
-<span class="co">#&gt;   code_m49 code_iso_alpha2 code_iso_alpha3</span>
-<span class="co">#&gt; 1       32              AR             ARG</span>
-<span class="co">#&gt; 2       32              AR             ARG</span>
-<span class="co">#&gt; 3       36              AU             AUS</span>
-<span class="co">#&gt; 4       36              AU             AUS</span>
-<span class="co">#&gt; 5       40              AT             AUT</span>
-<span class="co">#&gt; 6       40              AT             AUT</span>
-<span class="fu"><a href="https://rdrr.io/r/utils/head.html" class="external-link">head</a></span><span class="op">(</span><span class="va">sales_country</span><span class="op">)</span>
-<span class="co">#&gt;   year country type    n region       subregion intermediate_region</span>
-<span class="co">#&gt; 1 2005 Albania   pc  800 Europe Southern Europe                &lt;NA&gt;</span>
-<span class="co">#&gt; 2 2006 Albania   pc  800 Europe Southern Europe                &lt;NA&gt;</span>
-<span class="co">#&gt; 3 2007 Albania   pc 1600 Europe Southern Europe                &lt;NA&gt;</span>
-<span class="co">#&gt; 4 2008 Albania   pc 1600 Europe Southern Europe                &lt;NA&gt;</span>
-<span class="co">#&gt; 5 2009 Albania   pc 1000 Europe Southern Europe                &lt;NA&gt;</span>
-<span class="co">#&gt; 6 2010 Albania   pc 1600 Europe Southern Europe                &lt;NA&gt;</span>
-<span class="co">#&gt;   least_developed land_locked_developing small_island_developing code_region</span>
-<span class="co">#&gt; 1               0                      0                       0         150</span>
-<span class="co">#&gt; 2               0                      0                       0         150</span>
-<span class="co">#&gt; 3               0                      0                       0         150</span>
-<span class="co">#&gt; 4               0                      0                       0         150</span>
-<span class="co">#&gt; 5               0                      0                       0         150</span>
-<span class="co">#&gt; 6               0                      0                       0         150</span>
-<span class="co">#&gt;   code_subregion code_intermediate_region code_m49 code_iso_alpha2</span>
-<span class="co">#&gt; 1             39                       NA        8              AL</span>
-<span class="co">#&gt; 2             39                       NA        8              AL</span>
-<span class="co">#&gt; 3             39                       NA        8              AL</span>
-<span class="co">#&gt; 4             39                       NA        8              AL</span>
-<span class="co">#&gt; 5             39                       NA        8              AL</span>
-<span class="co">#&gt; 6             39                       NA        8              AL</span>
-<span class="co">#&gt;   code_iso_alpha3</span>
-<span class="co">#&gt; 1             ALB</span>
-<span class="co">#&gt; 2             ALB</span>
-<span class="co">#&gt; 3             ALB</span>
-<span class="co">#&gt; 4             ALB</span>
-<span class="co">#&gt; 5             ALB</span>
-<span class="co">#&gt; 6             ALB</span>
-<span class="fu"><a href="https://rdrr.io/r/utils/head.html" class="external-link">head</a></span><span class="op">(</span><span class="va">sales_region</span><span class="op">)</span>
-<span class="co">#&gt;   year region type      n</span>
-<span class="co">#&gt; 1 2005 Africa   pc 784237</span>
-<span class="co">#&gt; 2 2005 Africa   cv 328780</span>
-<span class="co">#&gt; 3 2006 Africa   pc 926966</span>
-<span class="co">#&gt; 4 2006 Africa   cv 387309</span>
-<span class="co">#&gt; 5 2007 Africa   pc 939201</span>
-<span class="co">#&gt; 6 2007 Africa   cv 382773</span></code></pre></div>
+<code class="sourceCode R"><span><span class="fu"><a href="https://rdrr.io/r/utils/head.html" class="external-link">head</a></span><span class="op">(</span><span class="va">production</span><span class="op">)</span></span>
+<span><span class="co">#&gt;   year   country type      n   region                       subregion</span></span>
+<span><span class="co">#&gt; 1 2006 Argentina   pv 263120 Americas Latin America and the Caribbean</span></span>
+<span><span class="co">#&gt; 2 2006 Argentina   cv 168981 Americas Latin America and the Caribbean</span></span>
+<span><span class="co">#&gt; 3 2006 Australia   pv 270000  Oceania       Australia and New Zealand</span></span>
+<span><span class="co">#&gt; 4 2006 Australia   cv  60900  Oceania       Australia and New Zealand</span></span>
+<span><span class="co">#&gt; 5 2006   Austria   pv 248059   Europe                  Western Europe</span></span>
+<span><span class="co">#&gt; 6 2006   Austria   cv  26873   Europe                  Western Europe</span></span>
+<span><span class="co">#&gt;   intermediate_region least_developed land_locked_developing</span></span>
+<span><span class="co">#&gt; 1       South America               0                      0</span></span>
+<span><span class="co">#&gt; 2       South America               0                      0</span></span>
+<span><span class="co">#&gt; 3                &lt;NA&gt;               0                      0</span></span>
+<span><span class="co">#&gt; 4                &lt;NA&gt;               0                      0</span></span>
+<span><span class="co">#&gt; 5                &lt;NA&gt;               0                      0</span></span>
+<span><span class="co">#&gt; 6                &lt;NA&gt;               0                      0</span></span>
+<span><span class="co">#&gt;   small_island_developing code_region code_subregion code_intermediate_region</span></span>
+<span><span class="co">#&gt; 1                       0          19            419                        5</span></span>
+<span><span class="co">#&gt; 2                       0          19            419                        5</span></span>
+<span><span class="co">#&gt; 3                       0           9             53                       NA</span></span>
+<span><span class="co">#&gt; 4                       0           9             53                       NA</span></span>
+<span><span class="co">#&gt; 5                       0         150            155                       NA</span></span>
+<span><span class="co">#&gt; 6                       0         150            155                       NA</span></span>
+<span><span class="co">#&gt;   code_m49 code_iso_alpha2 code_iso_alpha3</span></span>
+<span><span class="co">#&gt; 1       32              AR             ARG</span></span>
+<span><span class="co">#&gt; 2       32              AR             ARG</span></span>
+<span><span class="co">#&gt; 3       36              AU             AUS</span></span>
+<span><span class="co">#&gt; 4       36              AU             AUS</span></span>
+<span><span class="co">#&gt; 5       40              AT             AUT</span></span>
+<span><span class="co">#&gt; 6       40              AT             AUT</span></span>
+<span><span class="fu"><a href="https://rdrr.io/r/utils/head.html" class="external-link">head</a></span><span class="op">(</span><span class="va">sales_country</span><span class="op">)</span></span>
+<span><span class="co">#&gt;   year country type    n region       subregion intermediate_region</span></span>
+<span><span class="co">#&gt; 1 2005 Albania   pc  800 Europe Southern Europe                &lt;NA&gt;</span></span>
+<span><span class="co">#&gt; 2 2006 Albania   pc  800 Europe Southern Europe                &lt;NA&gt;</span></span>
+<span><span class="co">#&gt; 3 2007 Albania   pc 1600 Europe Southern Europe                &lt;NA&gt;</span></span>
+<span><span class="co">#&gt; 4 2008 Albania   pc 1600 Europe Southern Europe                &lt;NA&gt;</span></span>
+<span><span class="co">#&gt; 5 2009 Albania   pc 1000 Europe Southern Europe                &lt;NA&gt;</span></span>
+<span><span class="co">#&gt; 6 2010 Albania   pc 1600 Europe Southern Europe                &lt;NA&gt;</span></span>
+<span><span class="co">#&gt;   least_developed land_locked_developing small_island_developing code_region</span></span>
+<span><span class="co">#&gt; 1               0                      0                       0         150</span></span>
+<span><span class="co">#&gt; 2               0                      0                       0         150</span></span>
+<span><span class="co">#&gt; 3               0                      0                       0         150</span></span>
+<span><span class="co">#&gt; 4               0                      0                       0         150</span></span>
+<span><span class="co">#&gt; 5               0                      0                       0         150</span></span>
+<span><span class="co">#&gt; 6               0                      0                       0         150</span></span>
+<span><span class="co">#&gt;   code_subregion code_intermediate_region code_m49 code_iso_alpha2</span></span>
+<span><span class="co">#&gt; 1             39                       NA        8              AL</span></span>
+<span><span class="co">#&gt; 2             39                       NA        8              AL</span></span>
+<span><span class="co">#&gt; 3             39                       NA        8              AL</span></span>
+<span><span class="co">#&gt; 4             39                       NA        8              AL</span></span>
+<span><span class="co">#&gt; 5             39                       NA        8              AL</span></span>
+<span><span class="co">#&gt; 6             39                       NA        8              AL</span></span>
+<span><span class="co">#&gt;   code_iso_alpha3</span></span>
+<span><span class="co">#&gt; 1             ALB</span></span>
+<span><span class="co">#&gt; 2             ALB</span></span>
+<span><span class="co">#&gt; 3             ALB</span></span>
+<span><span class="co">#&gt; 4             ALB</span></span>
+<span><span class="co">#&gt; 5             ALB</span></span>
+<span><span class="co">#&gt; 6             ALB</span></span>
+<span><span class="fu"><a href="https://rdrr.io/r/utils/head.html" class="external-link">head</a></span><span class="op">(</span><span class="va">sales_region</span><span class="op">)</span></span>
+<span><span class="co">#&gt;   year region type      n</span></span>
+<span><span class="co">#&gt; 1 2005 Africa   pc 784237</span></span>
+<span><span class="co">#&gt; 2 2005 Africa   cv 328780</span></span>
+<span><span class="co">#&gt; 3 2006 Africa   pc 926966</span></span>
+<span><span class="co">#&gt; 4 2006 Africa   cv 387309</span></span>
+<span><span class="co">#&gt; 5 2007 Africa   pc 939201</span></span>
+<span><span class="co">#&gt; 6 2007 Africa   cv 382773</span></span></code></pre></div>
 </div>
 <div class="section level2">
 <h2 id="author-version-and-license-information">Author, Version, and License Information<a class="anchor" aria-label="anchor" href="#author-version-and-license-information"></a>
@@ -205,21 +205,21 @@
 </h2>
 <p>If you use this package for in a publication, I would greatly appreciate it if you cited it - you can get the citation by typing <code>citation("oica")</code> into R:</p>
 <div class="sourceCode" id="cb4"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span class="fu"><a href="https://rdrr.io/r/utils/citation.html" class="external-link">citation</a></span><span class="op">(</span><span class="st">"oica"</span><span class="op">)</span>
-<span class="co">#&gt; </span>
-<span class="co">#&gt; To cite cbcTools in publications use:</span>
-<span class="co">#&gt; </span>
-<span class="co">#&gt;   John Paul Helveston (2022). oica: Description.</span>
-<span class="co">#&gt; </span>
-<span class="co">#&gt; A BibTeX entry for LaTeX users is</span>
-<span class="co">#&gt; </span>
-<span class="co">#&gt;   @Manual{,</span>
-<span class="co">#&gt;     title = {oica: Description},</span>
-<span class="co">#&gt;     author = {John Paul Helveston},</span>
-<span class="co">#&gt;     year = {2022},</span>
-<span class="co">#&gt;     note = {R package version 0.0.1},</span>
-<span class="co">#&gt;     url = {https://jhelvy.github.io/oica/},</span>
-<span class="co">#&gt;   }</span></code></pre></div>
+<code class="sourceCode R"><span><span class="fu"><a href="https://rdrr.io/r/utils/citation.html" class="external-link">citation</a></span><span class="op">(</span><span class="st">"oica"</span><span class="op">)</span></span>
+<span><span class="co">#&gt; </span></span>
+<span><span class="co">#&gt; To cite cbcTools in publications use:</span></span>
+<span><span class="co">#&gt; </span></span>
+<span><span class="co">#&gt;   John Paul Helveston (2022). oica: Description.</span></span>
+<span><span class="co">#&gt; </span></span>
+<span><span class="co">#&gt; A BibTeX entry for LaTeX users is</span></span>
+<span><span class="co">#&gt; </span></span>
+<span><span class="co">#&gt;   @Manual{,</span></span>
+<span><span class="co">#&gt;     title = {oica: Description},</span></span>
+<span><span class="co">#&gt;     author = {John Paul Helveston},</span></span>
+<span><span class="co">#&gt;     year = {2022},</span></span>
+<span><span class="co">#&gt;     note = {R package version 0.0.1},</span></span>
+<span><span class="co">#&gt;     url = {https://jhelvy.github.io/oica/},</span></span>
+<span><span class="co">#&gt;   }</span></span></code></pre></div>
 </div>
 </div>
   </div>
@@ -274,7 +274,7 @@
 
 <div class="pkgdown">
   <p></p>
-<p>Site built with <a href="https://pkgdown.r-lib.org/" class="external-link">pkgdown</a> 2.0.4.</p>
+<p>Site built with <a href="https://pkgdown.r-lib.org/" class="external-link">pkgdown</a> 2.0.7.</p>
 </div>
 
       </footer>
