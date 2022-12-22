@@ -118,10 +118,9 @@ head(sales_region)
 
 ## Author, Version, and License Information
 
--   Author: *John Paul Helveston* <https://www.jhelvy.com/>
--   Date First Written: *Friday April 22, 2022*
--   License:
-    [MIT](https://github.com/jhelvy/oica/blob/master/LICENSE.md)
+- Author: *John Paul Helveston* <https://www.jhelvy.com/>
+- Date First Written: *Friday April 22, 2022*
+- License: [MIT](https://github.com/jhelvy/oica/blob/master/LICENSE.md)
 
 ## Citation Information
 
@@ -132,14 +131,15 @@ it if you cited it - you can get the citation by typing
 ``` r
 citation("oica")
 #> 
-#> To cite cbcTools in publications use:
+#> To cite oica in publications use:
 #> 
-#>   John Paul Helveston (2022). oica: Description.
+#>   John Paul Helveston (2022). oica: Data on Vehicle Production and
+#>   Sales from the OICA.
 #> 
 #> A BibTeX entry for LaTeX users is
 #> 
 #>   @Manual{,
-#>     title = {oica: Description},
+#>     title = {oica: Data on Vehicle Production and Sales from the OICA},
 #>     author = {John Paul Helveston},
 #>     year = {2022},
 #>     note = {R package version 0.0.1},
