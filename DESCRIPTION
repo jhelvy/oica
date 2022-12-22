@@ -1,5 +1,5 @@
 Package: oica
-Title: Tools For Designing Choice-Based Conjoint Survey Experiments
+Title: Data on Vehicle Production and Sales from the OICA
 Version: 0.0.1
 Maintainer: John Helveston <john.helveston@gmail.com>
 Authors@R: c(
@@ -8,7 +8,7 @@ Authors@R: c(
            role    = c("cre", "aut", "cph"),
            email   = "john.helveston@gmail.com",
            comment = c(ORCID = "0000-0002-2657-9191")))
-Description: Descripttion
+Description: A data package that contains some tidy formatted data on vehicle production and sales from the Organisation Internationale des Constructeurs d’Automobiles (OICA, English Name: “International Organization of Motor Vehicle Manufacturers”). The data sets are also merged with standard country / area codes come from the United Nations Statistics Division.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true

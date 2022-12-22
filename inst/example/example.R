@@ -1,4 +1,4 @@
 library(oica)
 
-# View data
+data(package = 'oica')
 
