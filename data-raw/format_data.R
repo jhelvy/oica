@@ -91,7 +91,7 @@ parse_table <- function(year) {
 }
 
 # Get all the tables
-tables <- lapply(seq(2006, 2021), parse_table)
+tables <- lapply(seq(2006, 2023), parse_table)
 
 # Make the data frame
 production <- do.call(rbind, tables) %>%
@@ -181,8 +181,29 @@ df_20_21 <- rbind(pc, cv) %>%
         year = as.numeric(str_replace(year, "Q1-Q4 ", ""))) %>%
     filter(year > 2019)
 
+# 2022 - 2023
+pc <- read_excel(file.path('data-raw', 'raw', 'pc-sales-2023.xlsx'), skip = 3)
+pc$country <- str_to_title(pc$'REGIONS/COUNTRIES')
+pc <- pc %>%
+    gather(year, sales, 'Q1-Q4 2021':'Q1-Q4 2023') %>%
+    select(country, year, sales) %>%
+    mutate(type = 'pc')
+cv <- read_excel(file.path('data-raw', 'raw', 'cv-sales-2023.xlsx'), skip = 3)
+cv$country <- str_to_title(cv$'REGIONS/COUNTRIES')
+cv <- cv %>%
+    gather(year, sales, 'Q1-Q4 2021':'Q1-Q4 2023') %>%
+    select(country, year, sales) %>%
+    mutate(type = 'cv')
+df_22_23 <- rbind(pc, cv) %>%
+    filter(is.na(country)==F) %>%
+    mutate(
+        country = str_replace(country, '\\*', ''),
+        year = as.numeric(str_replace(year, "Q1-Q4 ", ""))) %>%
+    filter(year > 2021)
+
+
 # Merge years and fix country name irregularities
-df <- rbind(df_05_19, df_20_21) %>%
+df <- rbind(df_05_19, df_20_21, df_22_23) %>%
     mutate(
         country = case_when(
             country == 'Switzerland (+Fl)' ~ 'Switzerland',

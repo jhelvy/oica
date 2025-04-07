@@ -1,6 +1,6 @@
 Package: oica
 Title: Data on Vehicle Production and Sales from the OICA
-Version: 0.0.1
+Version: 0.0.2
 Maintainer: John Helveston <john.helveston@gmail.com>
 Authors@R: c(
     person(given   = "John",
@@ -8,13 +8,13 @@ Authors@R: c(
            role    = c("cre", "aut", "cph"),
            email   = "john.helveston@gmail.com",
            comment = c(ORCID = "0000-0002-2657-9191")))
-Description: A data package that contains some tidy formatted data on vehicle production and sales from the Organisation Internationale des Constructeurs d’Automobiles (OICA, English Name: “International Organization of Motor Vehicle Manufacturers”). The data sets are also merged with standard country / area codes come from the United Nations Statistics Division.
+Description: A data package that contains some tidy formatted data on vehicle production and sales from the Organisation Internationale des Constructeurs d’Automobiles (OICA, English Name: “International Organization of Motor Vehicle Manufacturers”). Coverage include 2005 to 2023. The data sets are also merged with standard country / area codes come from the United Nations Statistics Division.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.2.1
+RoxygenNote: 7.3.2
 URL: https://github.com/jhelvy/oica
 BugReports: https://github.com/jhelvy/oica/issues
 Depends: 
-    R (>= 2.10)
+    R (>= 3.5)

@@ -1269,3 +1269,153 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Uzbekistan,cv,4982,Asia,Central Asia,NA,0,1,0,142,143,NA,860,UZ,UZB
 2021,Others,pv,1645014,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 2021,Others,cv,183930,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,Argentina,pv,257505,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,32,AR,ARG
+2022,Argentina,cv,279388,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,32,AR,ARG
+2022,Austria,pv,107500,Europe,Western Europe,NA,0,0,0,150,155,NA,40,AT,AUT
+2022,Austria,cv,0,Europe,Western Europe,NA,0,0,0,150,155,NA,40,AT,AUT
+2022,Belgium,pv,232100,Europe,Western Europe,NA,0,0,0,150,155,NA,56,BE,BEL
+2022,Belgium,cv,44454,Europe,Western Europe,NA,0,0,0,150,155,NA,56,BE,BEL
+2022,Brazil,pv,1824833,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,76,BR,BRA
+2022,Brazil,cv,544936,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,76,BR,BRA
+2022,Canada,pv,289371,Americas,Northern America,NA,0,0,0,19,21,NA,124,CA,CAN
+2022,Canada,cv,939364,Americas,Northern America,NA,0,0,0,19,21,NA,124,CA,CAN
+2022,China,pv,23836083,Asia,Eastern Asia,NA,0,0,0,142,30,NA,156,CN,CHN
+2022,China,cv,3184532,Asia,Eastern Asia,NA,0,0,0,142,30,NA,156,CN,CHN
+2022,Czech Republic,pv,1217787,Europe,Eastern Europe,NA,0,0,0,150,151,NA,203,CZ,CZE
+2022,Czech Republic,cv,6669,Europe,Eastern Europe,NA,0,0,0,150,151,NA,203,CZ,CZE
+2022,Finland,pv,73044,Europe,Northern Europe,NA,0,0,0,150,154,NA,246,FI,FIN
+2022,Finland,cv,0,Europe,Northern Europe,NA,0,0,0,150,154,NA,246,FI,FIN
+2022,France,pv,1010466,Europe,Western Europe,NA,0,0,0,150,155,NA,250,FR,FRA
+2022,France,cv,372707,Europe,Western Europe,NA,0,0,0,150,155,NA,250,FR,FRA
+2022,Germany,pv,3480357,Europe,Western Europe,NA,0,0,0,150,155,NA,276,DE,DEU
+2022,Germany,cv,197463,Europe,Western Europe,NA,0,0,0,150,155,NA,276,DE,DEU
+2022,Hungary,pv,441729,Europe,Eastern Europe,NA,0,0,0,150,151,NA,348,HU,HUN
+2022,Hungary,cv,0,Europe,Eastern Europe,NA,0,0,0,150,151,NA,348,HU,HUN
+2022,India,pv,4439039,Asia,Southern Asia,NA,0,0,0,142,34,NA,356,IN,IND
+2022,India,cv,1017818,Asia,Southern Asia,NA,0,0,0,142,34,NA,356,IN,IND
+2022,Indonesia,pv,1214250,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,360,ID,IDN
+2022,Indonesia,cv,255896,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,360,ID,IDN
+2022,Italy,pv,473194,Europe,Southern Europe,NA,0,0,0,150,39,NA,380,IT,ITA
+2022,Italy,cv,323200,Europe,Southern Europe,NA,0,0,0,150,39,NA,380,IT,ITA
+2022,Japan,pv,6566356,Asia,Eastern Asia,NA,0,0,0,142,30,NA,392,JP,JPN
+2022,Japan,cv,1269163,Asia,Eastern Asia,NA,0,0,0,142,30,NA,392,JP,JPN
+2022,Kazakhstan,pv,103345,Asia,Central Asia,NA,0,1,0,142,143,NA,398,KZ,KAZ
+2022,Kazakhstan,cv,9195,Asia,Central Asia,NA,0,1,0,142,143,NA,398,KZ,KAZ
+2022,Malaysia,pv,650190,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,458,MY,MYS
+2022,Malaysia,cv,52085,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,458,MY,MYS
+2022,Morocco,pv,404742,Africa,Northern Africa,NA,0,0,0,2,15,NA,504,MA,MAR
+2022,Morocco,cv,60122,Africa,Northern Africa,NA,0,0,0,2,15,NA,504,MA,MAR
+2022,Mexico,pv,658001,Americas,Latin America and the Caribbean,Central America,0,0,0,19,419,13,484,MX,MEX
+2022,Mexico,cv,2851071,Americas,Latin America and the Caribbean,Central America,0,0,0,19,419,13,484,MX,MEX
+2022,Poland,pv,255100,Europe,Eastern Europe,NA,0,0,0,150,151,NA,616,PL,POL
+2022,Poland,cv,228740,Europe,Eastern Europe,NA,0,0,0,150,151,NA,616,PL,POL
+2022,Portugal,pv,256018,Europe,Southern Europe,NA,0,0,0,150,39,NA,620,PT,PRT
+2022,Portugal,cv,66386,Europe,Southern Europe,NA,0,0,0,150,39,NA,620,PT,PRT
+2022,Romania,pv,509465,Europe,Eastern Europe,NA,0,0,0,150,151,NA,642,RO,ROU
+2022,Romania,cv,0,Europe,Eastern Europe,NA,0,0,0,150,151,NA,642,RO,ROU
+2022,Russia,pv,448897,Europe,Eastern Europe,NA,0,0,0,150,151,NA,643,RU,RUS
+2022,Russia,cv,159563,Europe,Eastern Europe,NA,0,0,0,150,151,NA,643,RU,RUS
+2022,Serbia,pv,4358,Europe,Southern Europe,NA,0,0,0,150,39,NA,688,RS,SRB
+2022,Serbia,cv,140,Europe,Southern Europe,NA,0,0,0,150,39,NA,688,RS,SRB
+2022,Slovakia,pv,1000000,Europe,Eastern Europe,NA,0,0,0,150,151,NA,703,SK,SVK
+2022,Slovakia,cv,0,Europe,Eastern Europe,NA,0,0,0,150,151,NA,703,SK,SVK
+2022,Slovenia,pv,68130,Europe,Southern Europe,NA,0,0,0,150,39,NA,705,SI,SVN
+2022,Slovenia,cv,0,Europe,Southern Europe,NA,0,0,0,150,39,NA,705,SI,SVN
+2022,South Africa,pv,309423,Africa,Sub-Saharan Africa,Southern Africa,0,0,0,2,202,18,710,ZA,ZAF
+2022,South Africa,cv,246466,Africa,Sub-Saharan Africa,Southern Africa,0,0,0,2,202,18,710,ZA,ZAF
+2022,South Korea,pv,3438355,Asia,Eastern Asia,NA,0,0,0,142,30,NA,410,KR,KOR
+2022,South Korea,cv,318694,Asia,Eastern Asia,NA,0,0,0,142,30,NA,410,KR,KOR
+2022,Spain,pv,1785432,Europe,Southern Europe,NA,0,0,0,150,39,NA,724,ES,ESP
+2022,Spain,cv,434030,Europe,Southern Europe,NA,0,0,0,150,39,NA,724,ES,ESP
+2022,Taiwan,pv,191409,Asia,Eastern Asia,NA,0,0,0,142,30,NA,NA,CN-TW,TWN
+2022,Taiwan,cv,69854,Asia,Eastern Asia,NA,0,0,0,142,30,NA,NA,CN-TW,TWN
+2022,Thailand,pv,594057,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,764,TH,THA
+2022,Thailand,cv,1289458,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,764,TH,THA
+2022,Turkey,pv,810889,Asia,Western Asia,NA,0,0,0,142,145,NA,792,TR,TUR
+2022,Turkey,cv,541759,Asia,Western Asia,NA,0,0,0,142,145,NA,792,TR,TUR
+2022,Ukraine,pv,1490,Europe,Eastern Europe,NA,0,0,0,150,151,NA,804,UA,UKR
+2022,Ukraine,cv,0,Europe,Eastern Europe,NA,0,0,0,150,151,NA,804,UA,UKR
+2022,United Kingdom,pv,775014,Europe,Northern Europe,NA,0,0,0,150,154,NA,826,GB,GBR
+2022,United Kingdom,cv,101600,Europe,Northern Europe,NA,0,0,0,150,154,NA,826,GB,GBR
+2022,USA,pv,1751736,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
+2022,USA,cv,8308603,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
+2022,Uzbekistan,pv,328118,Asia,Central Asia,NA,0,1,0,142,143,NA,860,UZ,UZB
+2022,Uzbekistan,cv,5451,Asia,Central Asia,NA,0,1,0,142,143,NA,860,UZ,UZB
+2022,Others,pv,1790867,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2022,Others,cv,239271,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Argentina,pv,304,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,32,AR,ARG
+2023,Argentina,cv,305,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,32,AR,ARG
+2023,Austria,pv,102,Europe,Western Europe,NA,0,0,0,150,155,NA,40,AT,AUT
+2023,Austria,cv,11,Europe,Western Europe,NA,0,0,0,150,155,NA,40,AT,AUT
+2023,Belgium,pv,285,Europe,Western Europe,NA,0,0,0,150,155,NA,56,BE,BEL
+2023,Belgium,cv,46,Europe,Western Europe,NA,0,0,0,150,155,NA,56,BE,BEL
+2023,Brazil,pv,1,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,76,BR,BRA
+2023,Brazil,cv,543,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,76,BR,BRA
+2023,Canada,pv,376,Americas,Northern America,NA,0,0,0,19,21,NA,124,CA,CAN
+2023,Canada,cv,1,Americas,Northern America,NA,0,0,0,19,21,NA,124,CA,CAN
+2023,China,pv,26,Asia,Eastern Asia,NA,0,0,0,142,30,NA,156,CN,CHN
+2023,China,cv,4,Asia,Eastern Asia,NA,0,0,0,142,30,NA,156,CN,CHN
+2023,Czech Republic,pv,1,Europe,Eastern Europe,NA,0,0,0,150,151,NA,203,CZ,CZE
+2023,Czech Republic,cv,6,Europe,Eastern Europe,NA,0,0,0,150,151,NA,203,CZ,CZE
+2023,Finland,pv,30,Europe,Northern Europe,NA,0,0,0,150,154,NA,246,FI,FIN
+2023,Finland,cv,NA,Europe,Northern Europe,NA,0,0,0,150,154,NA,246,FI,FIN
+2023,France,pv,1,Europe,Western Europe,NA,0,0,0,150,155,NA,250,FR,FRA
+2023,France,cv,478,Europe,Western Europe,NA,0,0,0,150,155,NA,250,FR,FRA
+2023,Germany,pv,4,Europe,Western Europe,NA,0,0,0,150,155,NA,276,DE,DEU
+2023,Germany,cv,NA,Europe,Western Europe,NA,0,0,0,150,155,NA,276,DE,DEU
+2023,Hungary,pv,507,Europe,Eastern Europe,NA,0,0,0,150,151,NA,348,HU,HUN
+2023,Hungary,cv,NA,Europe,Eastern Europe,NA,0,0,0,150,151,NA,348,HU,HUN
+2023,India,pv,4,Asia,Southern Asia,NA,0,0,0,142,34,NA,356,IN,IND
+2023,India,cv,1,Asia,Southern Asia,NA,0,0,0,142,34,NA,356,IN,IND
+2023,Indonesia,pv,1,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,360,ID,IDN
+2023,Indonesia,cv,215,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,360,ID,IDN
+2023,Italy,pv,541,Europe,Southern Europe,NA,0,0,0,150,39,NA,380,IT,ITA
+2023,Italy,cv,338,Europe,Southern Europe,NA,0,0,0,150,39,NA,380,IT,ITA
+2023,Japan,pv,7,Asia,Eastern Asia,NA,0,0,0,142,30,NA,392,JP,JPN
+2023,Japan,cv,1,Asia,Eastern Asia,NA,0,0,0,142,30,NA,392,JP,JPN
+2023,Kazakhstan,pv,134,Asia,Central Asia,NA,0,1,0,142,143,NA,398,KZ,KAZ
+2023,Kazakhstan,cv,12,Asia,Central Asia,NA,0,1,0,142,143,NA,398,KZ,KAZ
+2023,Malaysia,pv,724,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,458,MY,MYS
+2023,Malaysia,cv,49,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,458,MY,MYS
+2023,Morocco,pv,471,Africa,Northern Africa,NA,0,0,0,2,15,NA,504,MA,MAR
+2023,Morocco,cv,63,Africa,Northern Africa,NA,0,0,0,2,15,NA,504,MA,MAR
+2023,Mexico,pv,903,Americas,Latin America and the Caribbean,Central America,0,0,0,19,419,13,484,MX,MEX
+2023,Mexico,cv,3,Americas,Latin America and the Caribbean,Central America,0,0,0,19,419,13,484,MX,MEX
+2023,Poland,pv,299,Europe,Eastern Europe,NA,0,0,0,150,151,NA,616,PL,POL
+2023,Poland,cv,313,Europe,Eastern Europe,NA,0,0,0,150,151,NA,616,PL,POL
+2023,Portugal,pv,243,Europe,Southern Europe,NA,0,0,0,150,39,NA,620,PT,PRT
+2023,Portugal,cv,75,Europe,Southern Europe,NA,0,0,0,150,39,NA,620,PT,PRT
+2023,Romania,pv,513,Europe,Eastern Europe,NA,0,0,0,150,151,NA,642,RO,ROU
+2023,Romania,cv,NA,Europe,Eastern Europe,NA,0,0,0,150,151,NA,642,RO,ROU
+2023,Russia,pv,526,Europe,Eastern Europe,NA,0,0,0,150,151,NA,643,RU,RUS
+2023,Russia,cv,203,Europe,Eastern Europe,NA,0,0,0,150,151,NA,643,RU,RUS
+2023,Slovakia,pv,1,Europe,Eastern Europe,NA,0,0,0,150,151,NA,703,SK,SVK
+2023,Slovakia,cv,NA,Europe,Eastern Europe,NA,0,0,0,150,151,NA,703,SK,SVK
+2023,Slovenia,pv,60,Europe,Southern Europe,NA,0,0,0,150,39,NA,705,SI,SVN
+2023,Slovenia,cv,NA,Europe,Southern Europe,NA,0,0,0,150,39,NA,705,SI,SVN
+2023,South Africa,pv,336,Africa,Sub-Saharan Africa,Southern Africa,0,0,0,2,202,18,710,ZA,ZAF
+2023,South Africa,cv,296,Africa,Sub-Saharan Africa,Southern Africa,0,0,0,2,202,18,710,ZA,ZAF
+2023,South Korea,pv,3,Asia,Eastern Asia,NA,0,0,0,142,30,NA,410,KR,KOR
+2023,South Korea,cv,334,Asia,Eastern Asia,NA,0,0,0,142,30,NA,410,KR,KOR
+2023,Spain,pv,1,Europe,Southern Europe,NA,0,0,0,150,39,NA,724,ES,ESP
+2023,Spain,cv,544,Europe,Southern Europe,NA,0,0,0,150,39,NA,724,ES,ESP
+2023,Taiwan,pv,221,Asia,Eastern Asia,NA,0,0,0,142,30,NA,NA,CN-TW,TWN
+2023,Taiwan,cv,64,Asia,Eastern Asia,NA,0,0,0,142,30,NA,NA,CN-TW,TWN
+2023,Thailand,pv,580,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,764,TH,THA
+2023,Thailand,cv,1,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,764,TH,THA
+2023,Turkey,pv,952,Asia,Western Asia,NA,0,0,0,142,145,NA,792,TR,TUR
+2023,Turkey,cv,515,Asia,Western Asia,NA,0,0,0,142,145,NA,792,TR,TUR
+2023,Ukraine,pv,1,Europe,Eastern Europe,NA,0,0,0,150,151,NA,804,UA,UKR
+2023,Ukraine,cv,NA,Europe,Eastern Europe,NA,0,0,0,150,151,NA,804,UA,UKR
+2023,United Kingdom,pv,905,Europe,Northern Europe,NA,0,0,0,150,154,NA,826,GB,GBR
+2023,United Kingdom,cv,120,Europe,Northern Europe,NA,0,0,0,150,154,NA,826,GB,GBR
+2023,USA,pv,1,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
+2023,USA,cv,8,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
+2023,Uzbekistan,pv,421,Asia,Central Asia,NA,0,1,0,142,143,NA,860,UZ,UZB
+2023,Uzbekistan,cv,4,Asia,Central Asia,NA,0,1,0,142,143,NA,860,UZ,UZB
+2023,Others,pv,877,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,Others,cv,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,,pv,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,,cv,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,,pv,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2023,,cv,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

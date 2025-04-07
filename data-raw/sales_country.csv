@@ -123,6 +123,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Argentina,pc,241619,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,32,AR,ARG
 2020,Argentina,cv,102183,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,32,AR,ARG
 2021,Argentina,cv,128664,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,32,AR,ARG
+2022,Argentina,pc,260822,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,32,AR,ARG
+2023,Argentina,pc,274728,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,32,AR,ARG
+2022,Argentina,cv,134740,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,32,AR,ARG
+2023,Argentina,cv,164445,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,32,AR,ARG
 2005,Armenia,pc,11000,Asia,Western Asia,NA,0,1,0,142,145,NA,51,AM,ARM
 2006,Armenia,pc,12000,Asia,Western Asia,NA,0,1,0,142,145,NA,51,AM,ARM
 2007,Armenia,pc,6000,Asia,Western Asia,NA,0,1,0,142,145,NA,51,AM,ARM
@@ -187,6 +191,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Australia,pc,753256,Oceania,Australia and New Zealand,NA,0,0,0,9,53,NA,36,AU,AUS
 2020,Australia,cv,240164,Oceania,Australia and New Zealand,NA,0,0,0,9,53,NA,36,AU,AUS
 2021,Australia,cv,296575,Oceania,Australia and New Zealand,NA,0,0,0,9,53,NA,36,AU,AUS
+2022,Australia,pc,777688,Oceania,Australia and New Zealand,NA,0,0,0,9,53,NA,36,AU,AUS
+2023,Australia,pc,890823,Oceania,Australia and New Zealand,NA,0,0,0,9,53,NA,36,AU,AUS
+2022,Australia,cv,303741,Oceania,Australia and New Zealand,NA,0,0,0,9,53,NA,36,AU,AUS
+2023,Australia,cv,325957,Oceania,Australia and New Zealand,NA,0,0,0,9,53,NA,36,AU,AUS
 2005,Austria,pc,307915,Europe,Western Europe,NA,0,0,0,150,155,NA,40,AT,AUT
 2006,Austria,pc,308594,Europe,Western Europe,NA,0,0,0,150,155,NA,40,AT,AUT
 2007,Austria,pc,298182,Europe,Western Europe,NA,0,0,0,150,155,NA,40,AT,AUT
@@ -221,6 +229,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Austria,pc,239803,Europe,Western Europe,NA,0,0,0,150,155,NA,40,AT,AUT
 2020,Austria,cv,43896,Europe,Western Europe,NA,0,0,0,150,155,NA,40,AT,AUT
 2021,Austria,cv,66373,Europe,Western Europe,NA,0,0,0,150,155,NA,40,AT,AUT
+2022,Austria,pc,215050,Europe,Western Europe,NA,0,0,0,150,155,NA,40,AT,AUT
+2023,Austria,pc,239150,Europe,Western Europe,NA,0,0,0,150,155,NA,40,AT,AUT
+2022,Austria,cv,29644,Europe,Western Europe,NA,0,0,0,150,155,NA,40,AT,AUT
+2023,Austria,cv,39746,Europe,Western Europe,NA,0,0,0,150,155,NA,40,AT,AUT
 2005,Azerbaijan,pc,12100,Asia,Western Asia,NA,0,1,0,142,145,NA,31,AZ,AZE
 2006,Azerbaijan,pc,13000,Asia,Western Asia,NA,0,1,0,142,145,NA,31,AZ,AZE
 2007,Azerbaijan,pc,15000,Asia,Western Asia,NA,0,1,0,142,145,NA,31,AZ,AZE
@@ -405,6 +417,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Belgium,pc,383123,Europe,Western Europe,NA,0,0,0,150,155,NA,56,BE,BEL
 2020,Belgium,cv,78503,Europe,Western Europe,NA,0,0,0,150,155,NA,56,BE,BEL
 2021,Belgium,cv,79413,Europe,Western Europe,NA,0,0,0,150,155,NA,56,BE,BEL
+2022,Belgium,pc,366333,Europe,Western Europe,NA,0,0,0,150,155,NA,56,BE,BEL
+2023,Belgium,pc,476674,Europe,Western Europe,NA,0,0,0,150,155,NA,56,BE,BEL
+2022,Belgium,cv,65261,Europe,Western Europe,NA,0,0,0,150,155,NA,56,BE,BEL
+2023,Belgium,cv,78328,Europe,Western Europe,NA,0,0,0,150,155,NA,56,BE,BEL
 2005,Belize,pc,100,Americas,Latin America and the Caribbean,Central America,0,0,1,19,419,13,84,BZ,BLZ
 2006,Belize,pc,200,Americas,Latin America and the Caribbean,Central America,0,0,1,19,419,13,84,BZ,BLZ
 2007,Belize,pc,100,Americas,Latin America and the Caribbean,Central America,0,0,1,19,419,13,84,BZ,BLZ
@@ -559,6 +575,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Brazil,pc,1558467,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,76,BR,BRA
 2020,Brazil,cv,442495,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,76,BR,BRA
 2021,Brazil,cv,561384,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,76,BR,BRA
+2022,Brazil,pc,1576662,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,76,BR,BRA
+2023,Brazil,pc,1721400,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,76,BR,BRA
+2022,Brazil,cv,527799,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,76,BR,BRA
+2023,Brazil,cv,587289,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,76,BR,BRA
 2005,Brunei,pc,15000,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,96,BN,BRN
 2006,Brunei,pc,15000,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,96,BN,BRN
 2007,Brunei,pc,10000,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,96,BN,BRN
@@ -623,6 +643,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Bulgaria,pc,24537,Europe,Eastern Europe,NA,0,0,0,150,151,NA,100,BG,BGR
 2020,Bulgaria,cv,7295,Europe,Eastern Europe,NA,0,0,0,150,151,NA,100,BG,BGR
 2021,Bulgaria,cv,9935,Europe,Eastern Europe,NA,0,0,0,150,151,NA,100,BG,BGR
+2022,Bulgaria,pc,28684,Europe,Eastern Europe,NA,0,0,0,150,151,NA,100,BG,BGR
+2023,Bulgaria,pc,35764,Europe,Eastern Europe,NA,0,0,0,150,151,NA,100,BG,BGR
+2022,Bulgaria,cv,8811,Europe,Eastern Europe,NA,0,0,0,150,151,NA,100,BG,BGR
+2023,Bulgaria,cv,9232.996696944674,Europe,Eastern Europe,NA,0,0,0,150,151,NA,100,BG,BGR
 2005,Burkina Faso,pc,500,Africa,Sub-Saharan Africa,Western Africa,1,1,0,2,202,11,854,BF,BFA
 2006,Burkina Faso,pc,500,Africa,Sub-Saharan Africa,Western Africa,1,1,0,2,202,11,854,BF,BFA
 2007,Burkina Faso,pc,500,Africa,Sub-Saharan Africa,Western Africa,1,1,0,2,202,11,854,BF,BFA
@@ -777,6 +801,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Canada,pc,320605,Americas,Northern America,NA,0,0,0,19,21,NA,124,CA,CAN
 2020,Canada,cv,1267724,Americas,Northern America,NA,0,0,0,19,21,NA,124,CA,CAN
 2021,Canada,cv,1384245,Americas,Northern America,NA,0,0,0,19,21,NA,124,CA,CAN
+2022,Canada,pc,258483,Americas,Northern America,NA,0,0,0,19,21,NA,124,CA,CAN
+2023,Canada,pc,262159,Americas,Northern America,NA,0,0,0,19,21,NA,124,CA,CAN
+2022,Canada,cv,1304482,Americas,Northern America,NA,0,0,0,19,21,NA,124,CA,CAN
+2023,Canada,cv,1502357,Americas,Northern America,NA,0,0,0,19,21,NA,124,CA,CAN
 2005,Chile,pc,140000,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,152,CL,CHL
 2006,Chile,pc,140000,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,152,CL,CHL
 2007,Chile,pc,180000,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,152,CL,CHL
@@ -811,6 +839,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Chile,pc,304045,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,152,CL,CHL
 2020,Chile,cv,64707,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,152,CL,CHL
 2021,Chile,cv,111537,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,152,CL,CHL
+2022,Chile,pc,313589,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,152,CL,CHL
+2023,Chile,pc,218642,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,152,CL,CHL
+2022,Chile,cv,113192,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,152,CL,CHL
+2023,Chile,cv,89528,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,152,CL,CHL
 2005,China,pc,3971101,Asia,Eastern Asia,NA,0,0,0,142,30,NA,156,CN,CHN
 2006,China,pc,5175961,Asia,Eastern Asia,NA,0,0,0,142,30,NA,156,CN,CHN
 2007,China,pc,6297538,Asia,Eastern Asia,NA,0,0,0,142,30,NA,156,CN,CHN
@@ -845,6 +877,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,China,pc,21481537,Asia,Eastern Asia,NA,0,0,0,142,30,NA,156,CN,CHN
 2020,China,cv,5133338,Asia,Eastern Asia,NA,0,0,0,142,30,NA,156,CN,CHN
 2021,China,cv,4793283,Asia,Eastern Asia,NA,0,0,0,142,30,NA,156,CN,CHN
+2022,China,pc,23563287,Asia,Eastern Asia,NA,0,0,0,142,30,NA,156,CN,CHN
+2023,China,pc,26062824,Asia,Eastern Asia,NA,0,0,0,142,30,NA,156,CN,CHN
+2022,China,cv,3300458,Asia,Eastern Asia,NA,0,0,0,142,30,NA,156,CN,CHN
+2023,China,cv,4030874,Asia,Eastern Asia,NA,0,0,0,142,30,NA,156,CN,CHN
 2005,Colombia,pc,120000,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,170,CO,COL
 2006,Colombia,pc,160000,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,170,CO,COL
 2007,Colombia,pc,200000,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,170,CO,COL
@@ -879,6 +915,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Colombia,pc,200914,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,170,CO,COL
 2020,Colombia,cv,21391,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,170,CO,COL
 2021,Colombia,cv,28579,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,170,CO,COL
+2022,Colombia,pc,208160,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,170,CO,COL
+2023,Colombia,pc,144633,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,170,CO,COL
+2022,Colombia,cv,29089,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,170,CO,COL
+2023,Colombia,cv,24425,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,170,CO,COL
 2005,Congo,pc,200,Africa,Sub-Saharan Africa,Middle Africa,0,0,0,2,202,17,178,CG,COG
 2006,Congo,pc,200,Africa,Sub-Saharan Africa,Middle Africa,0,0,0,2,202,17,178,CG,COG
 2007,Congo,pc,200,Africa,Sub-Saharan Africa,Middle Africa,0,0,0,2,202,17,178,CG,COG
@@ -973,6 +1013,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Croatia,pc,44929,Europe,Southern Europe,NA,0,0,0,150,39,NA,191,HR,HRV
 2020,Croatia,cv,7787,Europe,Southern Europe,NA,0,0,0,150,39,NA,191,HR,HRV
 2021,Croatia,cv,9401,Europe,Southern Europe,NA,0,0,0,150,39,NA,191,HR,HRV
+2022,Croatia,pc,42955,Europe,Southern Europe,NA,0,0,0,150,39,NA,191,HR,HRV
+2023,Croatia,pc,57694,Europe,Southern Europe,NA,0,0,0,150,39,NA,191,HR,HRV
+2022,Croatia,cv,8367,Europe,Southern Europe,NA,0,0,0,150,39,NA,191,HR,HRV
+2023,Croatia,cv,9619,Europe,Southern Europe,NA,0,0,0,150,39,NA,191,HR,HRV
 2005,Cuba,pc,2000,Americas,Latin America and the Caribbean,Caribbean,0,0,1,19,419,29,192,CU,CUB
 2006,Cuba,pc,2000,Americas,Latin America and the Caribbean,Caribbean,0,0,1,19,419,29,192,CU,CUB
 2007,Cuba,pc,3000,Americas,Latin America and the Caribbean,Caribbean,0,0,1,19,419,29,192,CU,CUB
@@ -1067,6 +1111,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Czech Republic,pc,206876,Europe,Eastern Europe,NA,0,0,0,150,151,NA,203,CZ,CZE
 2020,Czech Republic,cv,25863,Europe,Eastern Europe,NA,0,0,0,150,151,NA,203,CZ,CZE
 2021,Czech Republic,cv,29345,Europe,Eastern Europe,NA,0,0,0,150,151,NA,203,CZ,CZE
+2022,Czech Republic,pc,192087,Europe,Eastern Europe,NA,0,0,0,150,151,NA,203,CZ,CZE
+2023,Czech Republic,pc,221419,Europe,Eastern Europe,NA,0,0,0,150,151,NA,203,CZ,CZE
+2022,Czech Republic,cv,27085,Europe,Eastern Europe,NA,0,0,0,150,151,NA,203,CZ,CZE
+2023,Czech Republic,cv,34257,Europe,Eastern Europe,NA,0,0,0,150,151,NA,203,CZ,CZE
 2005,Denmark,pc,148819,Europe,Northern Europe,NA,0,0,0,150,154,NA,208,DK,DNK
 2006,Denmark,pc,156936,Europe,Northern Europe,NA,0,0,0,150,154,NA,208,DK,DNK
 2007,Denmark,pc,162686,Europe,Northern Europe,NA,0,0,0,150,154,NA,208,DK,DNK
@@ -1101,6 +1149,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Denmark,pc,185324,Europe,Northern Europe,NA,0,0,0,150,154,NA,208,DK,DNK
 2020,Denmark,cv,35109,Europe,Northern Europe,NA,0,0,0,150,154,NA,208,DK,DNK
 2021,Denmark,cv,36613,Europe,Northern Europe,NA,0,0,0,150,154,NA,208,DK,DNK
+2022,Denmark,pc,148293,Europe,Northern Europe,NA,0,0,0,150,154,NA,208,DK,DNK
+2023,Denmark,pc,172798,Europe,Northern Europe,NA,0,0,0,150,154,NA,208,DK,DNK
+2022,Denmark,cv,32683,Europe,Northern Europe,NA,0,0,0,150,154,NA,208,DK,DNK
+2023,Denmark,cv,31153,Europe,Northern Europe,NA,0,0,0,150,154,NA,208,DK,DNK
 2005,Dominican Republic,pc,6163,Americas,Latin America and the Caribbean,Caribbean,0,0,1,19,419,29,214,DO,DOM
 2006,Dominican Republic,pc,7673,Americas,Latin America and the Caribbean,Caribbean,0,0,1,19,419,29,214,DO,DOM
 2007,Dominican Republic,pc,6972,Americas,Latin America and the Caribbean,Caribbean,0,0,1,19,419,29,214,DO,DOM
@@ -1165,6 +1217,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Ecuador,pc,86740,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,218,EC,ECU
 2020,Ecuador,cv,16441,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,218,EC,ECU
 2021,Ecuador,cv,22967,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,218,EC,ECU
+2022,Ecuador,pc,100069,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,218,EC,ECU
+2023,Ecuador,pc,98018,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,218,EC,ECU
+2022,Ecuador,cv,25981,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,218,EC,ECU
+2023,Ecuador,cv,26041,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,218,EC,ECU
 2005,Egypt,pc,94538,Africa,Northern Africa,NA,0,0,0,2,15,NA,818,EG,EGY
 2006,Egypt,pc,132373,Africa,Northern Africa,NA,0,0,0,2,15,NA,818,EG,EGY
 2007,Egypt,pc,179149,Africa,Northern Africa,NA,0,0,0,2,15,NA,818,EG,EGY
@@ -1199,6 +1255,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Egypt,pc,215072,Africa,Northern Africa,NA,0,0,0,2,15,NA,818,EG,EGY
 2020,Egypt,cv,51940,Africa,Northern Africa,NA,0,0,0,2,15,NA,818,EG,EGY
 2021,Egypt,cv,62733,Africa,Northern Africa,NA,0,0,0,2,15,NA,818,EG,EGY
+2022,Egypt,pc,133857,Africa,Northern Africa,NA,0,0,0,2,15,NA,818,EG,EGY
+2023,Egypt,pc,69175,Africa,Northern Africa,NA,0,0,0,2,15,NA,818,EG,EGY
+2022,Egypt,cv,41268,Africa,Northern Africa,NA,0,0,0,2,15,NA,818,EG,EGY
+2023,Egypt,cv,16869,Africa,Northern Africa,NA,0,0,0,2,15,NA,818,EG,EGY
 2005,El Salvador,pc,4000,Americas,Latin America and the Caribbean,Central America,0,0,0,19,419,13,222,SV,SLV
 2006,El Salvador,pc,6000,Americas,Latin America and the Caribbean,Central America,0,0,0,19,419,13,222,SV,SLV
 2007,El Salvador,pc,8000,Americas,Latin America and the Caribbean,Central America,0,0,0,19,419,13,222,SV,SLV
@@ -1293,6 +1353,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Finland,pc,98481,Europe,Northern Europe,NA,0,0,0,150,154,NA,246,FI,FIN
 2020,Finland,cv,16558,Europe,Northern Europe,NA,0,0,0,150,154,NA,246,FI,FIN
 2021,Finland,cv,16810,Europe,Northern Europe,NA,0,0,0,150,154,NA,246,FI,FIN
+2022,Finland,pc,81674,Europe,Northern Europe,NA,0,0,0,150,154,NA,246,FI,FIN
+2023,Finland,pc,87509,Europe,Northern Europe,NA,0,0,0,150,154,NA,246,FI,FIN
+2022,Finland,cv,14948,Europe,Northern Europe,NA,0,0,0,150,154,NA,246,FI,FIN
+2023,Finland,cv,15221,Europe,Northern Europe,NA,0,0,0,150,154,NA,246,FI,FIN
 2005,France,pc,2118042,Europe,Western Europe,NA,0,0,0,150,155,NA,250,FR,FRA
 2006,France,pc,2045745,Europe,Western Europe,NA,0,0,0,150,155,NA,250,FR,FRA
 2007,France,pc,2109672,Europe,Western Europe,NA,0,0,0,150,155,NA,250,FR,FRA
@@ -1327,6 +1391,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,France,pc,1659005,Europe,Western Europe,NA,0,0,0,150,155,NA,250,FR,FRA
 2020,France,cv,449912,Europe,Western Europe,NA,0,0,0,150,155,NA,250,FR,FRA
 2021,France,cv,483279,Europe,Western Europe,NA,0,0,0,150,155,NA,250,FR,FRA
+2022,France,pc,1529035,Europe,Western Europe,NA,0,0,0,150,155,NA,250,FR,FRA
+2023,France,pc,1774723,Europe,Western Europe,NA,0,0,0,150,155,NA,250,FR,FRA
+2022,France,cv,397519,Europe,Western Europe,NA,0,0,0,150,155,NA,250,FR,FRA
+2023,France,cv,434379,Europe,Western Europe,NA,0,0,0,150,155,NA,250,FR,FRA
 2005,French Guiana,pc,4085,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,254,GF,GUF
 2006,French Guiana,pc,4071,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,254,GF,GUF
 2007,French Guiana,pc,4437,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,254,GF,GUF
@@ -1481,6 +1549,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Germany,pc,2622132,Europe,Western Europe,NA,0,0,0,150,155,NA,276,DE,DEU
 2020,Germany,cv,349081,Europe,Western Europe,NA,0,0,0,150,155,NA,276,DE,DEU
 2021,Germany,cv,351187,Europe,Western Europe,NA,0,0,0,150,155,NA,276,DE,DEU
+2022,Germany,pc,2651357,Europe,Western Europe,NA,0,0,0,150,155,NA,276,DE,DEU
+2023,Germany,pc,2844609,Europe,Western Europe,NA,0,0,0,150,155,NA,276,DE,DEU
+2022,Germany,cv,312391,Europe,Western Europe,NA,0,0,0,150,155,NA,276,DE,DEU
+2023,Germany,cv,359689,Europe,Western Europe,NA,0,0,0,150,155,NA,276,DE,DEU
 2005,Ghana,pc,2500,Africa,Sub-Saharan Africa,Western Africa,0,0,0,2,202,11,288,GH,GHA
 2006,Ghana,pc,3000,Africa,Sub-Saharan Africa,Western Africa,0,0,0,2,202,11,288,GH,GHA
 2007,Ghana,pc,3500,Africa,Sub-Saharan Africa,Western Africa,0,0,0,2,202,11,288,GH,GHA
@@ -1545,6 +1617,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Greece,pc,100916,Europe,Southern Europe,NA,0,0,0,150,39,NA,300,GR,GRC
 2020,Greece,cv,7733,Europe,Southern Europe,NA,0,0,0,150,39,NA,300,GR,GRC
 2021,Greece,cv,11448,Europe,Southern Europe,NA,0,0,0,150,39,NA,300,GR,GRC
+2022,Greece,pc,105283,Europe,Southern Europe,NA,0,0,0,150,39,NA,300,GR,GRC
+2023,Greece,pc,134484,Europe,Southern Europe,NA,0,0,0,150,39,NA,300,GR,GRC
+2022,Greece,cv,10595,Europe,Southern Europe,NA,0,0,0,150,39,NA,300,GR,GRC
+2023,Greece,cv,11122,Europe,Southern Europe,NA,0,0,0,150,39,NA,300,GR,GRC
 2005,Guadeloupe,pc,14359,Americas,Latin America and the Caribbean,Caribbean,0,0,0,19,419,29,312,GP,GLP
 2006,Guadeloupe,pc,13562,Americas,Latin America and the Caribbean,Caribbean,0,0,0,19,419,29,312,GP,GLP
 2007,Guadeloupe,pc,15539,Americas,Latin America and the Caribbean,Caribbean,0,0,0,19,419,29,312,GP,GLP
@@ -1699,6 +1775,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Hungary,pc,121920,Europe,Eastern Europe,NA,0,0,0,150,151,NA,348,HU,HUN
 2020,Hungary,cv,25947,Europe,Eastern Europe,NA,0,0,0,150,151,NA,348,HU,HUN
 2021,Hungary,cv,28467,Europe,Eastern Europe,NA,0,0,0,150,151,NA,348,HU,HUN
+2022,Hungary,pc,111524,Europe,Eastern Europe,NA,0,0,0,150,151,NA,348,HU,HUN
+2023,Hungary,pc,107720,Europe,Eastern Europe,NA,0,0,0,150,151,NA,348,HU,HUN
+2022,Hungary,cv,24047,Europe,Eastern Europe,NA,0,0,0,150,151,NA,348,HU,HUN
+2023,Hungary,cv,27928,Europe,Eastern Europe,NA,0,0,0,150,151,NA,348,HU,HUN
 2005,Iceland,pc,18060,Europe,Northern Europe,NA,0,0,0,150,154,NA,352,IS,ISL
 2006,Iceland,pc,17129,Europe,Northern Europe,NA,0,0,0,150,154,NA,352,IS,ISL
 2007,Iceland,pc,15942,Europe,Northern Europe,NA,0,0,0,150,154,NA,352,IS,ISL
@@ -1763,6 +1843,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,India,pc,3082279,Asia,Southern Asia,NA,0,0,0,142,34,NA,356,IN,IND
 2020,India,cv,505102,Asia,Southern Asia,NA,0,0,0,142,34,NA,356,IN,IND
 2021,India,cv,677119,Asia,Southern Asia,NA,0,0,0,142,34,NA,356,IN,IND
+2022,India,pc,3792444,Asia,Southern Asia,NA,0,0,0,142,34,NA,356,IN,IND
+2023,India,pc,4101600,Asia,Southern Asia,NA,0,0,0,142,34,NA,356,IN,IND
+2022,India,cv,933116,Asia,Southern Asia,NA,0,0,0,142,34,NA,356,IN,IND
+2023,India,cv,978385,Asia,Southern Asia,NA,0,0,0,142,34,NA,356,IN,IND
 2005,Indonesia,pc,364319,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,360,ID,IDN
 2006,Indonesia,pc,222387,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,360,ID,IDN
 2007,Indonesia,pc,314769,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,360,ID,IDN
@@ -1797,6 +1881,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Indonesia,pc,659809,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,360,ID,IDN
 2020,Indonesia,cv,143152,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,360,ID,IDN
 2021,Indonesia,cv,227396,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,360,ID,IDN
+2022,Indonesia,pc,783563,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,360,ID,IDN
+2023,Indonesia,pc,779326,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,360,ID,IDN
+2022,Indonesia,cv,264477,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,360,ID,IDN
+2023,Indonesia,cv,226476,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,360,ID,IDN
 2005,Iran,pc,730000,Asia,Southern Asia,NA,0,0,0,142,34,NA,364,IR,IRN
 2006,Iran,pc,850000,Asia,Southern Asia,NA,0,0,0,142,34,NA,364,IR,IRN
 2007,Iran,pc,900000,Asia,Southern Asia,NA,0,0,0,142,34,NA,364,IR,IRN
@@ -1891,6 +1979,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Ireland,pc,104669,Europe,Northern Europe,NA,0,0,0,150,154,NA,372,IE,IRL
 2020,Ireland,cv,23798,Europe,Northern Europe,NA,0,0,0,150,154,NA,372,IE,IRL
 2021,Ireland,cv,31457,Europe,Northern Europe,NA,0,0,0,150,154,NA,372,IE,IRL
+2022,Ireland,pc,105398,Europe,Northern Europe,NA,0,0,0,150,154,NA,372,IE,IRL
+2023,Ireland,pc,122310,Europe,Northern Europe,NA,0,0,0,150,154,NA,372,IE,IRL
+2022,Ireland,cv,26000,Europe,Northern Europe,NA,0,0,0,150,154,NA,372,IE,IRL
+2023,Ireland,cv,31937,Europe,Northern Europe,NA,0,0,0,150,154,NA,372,IE,IRL
 2005,Israel,pc,130000,Asia,Western Asia,NA,0,0,0,142,145,NA,376,IL,ISR
 2006,Israel,pc,130000,Asia,Western Asia,NA,0,0,0,142,145,NA,376,IL,ISR
 2007,Israel,pc,200000,Asia,Western Asia,NA,0,0,0,142,145,NA,376,IL,ISR
@@ -1925,6 +2017,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Israel,pc,272646,Asia,Western Asia,NA,0,0,0,142,145,NA,376,IL,ISR
 2020,Israel,cv,23883,Asia,Western Asia,NA,0,0,0,142,145,NA,376,IL,ISR
 2021,Israel,cv,33366,Asia,Western Asia,NA,0,0,0,142,145,NA,376,IL,ISR
+2022,Israel,pc,257743,Asia,Western Asia,NA,0,0,0,142,145,NA,376,IL,ISR
+2023,Israel,pc,270433,Asia,Western Asia,NA,0,0,0,142,145,NA,376,IL,ISR
+2022,Israel,cv,30383,Asia,Western Asia,NA,0,0,0,142,145,NA,376,IL,ISR
+2023,Israel,cv,88904,Asia,Western Asia,NA,0,0,0,142,145,NA,376,IL,ISR
 2005,Italy,pc,2244108,Europe,Southern Europe,NA,0,0,0,150,39,NA,380,IT,ITA
 2006,Italy,pc,2335462,Europe,Southern Europe,NA,0,0,0,150,39,NA,380,IT,ITA
 2007,Italy,pc,2494115,Europe,Southern Europe,NA,0,0,0,150,39,NA,380,IT,ITA
@@ -1959,6 +2055,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Italy,pc,1456674,Europe,Southern Europe,NA,0,0,0,150,39,NA,380,IT,ITA
 2020,Italy,cv,183003,Europe,Southern Europe,NA,0,0,0,150,39,NA,380,IT,ITA
 2021,Italy,cv,207809,Europe,Southern Europe,NA,0,0,0,150,39,NA,380,IT,ITA
+2022,Italy,pc,1316919,Europe,Southern Europe,NA,0,0,0,150,39,NA,380,IT,ITA
+2023,Italy,pc,1565331,Europe,Southern Europe,NA,0,0,0,150,39,NA,380,IT,ITA
+2022,Italy,cv,188133,Europe,Southern Europe,NA,0,0,0,150,39,NA,380,IT,ITA
+2023,Italy,cv,229324,Europe,Southern Europe,NA,0,0,0,150,39,NA,380,IT,ITA
 2005,Jamaica,pc,3000,Americas,Latin America and the Caribbean,Caribbean,0,0,1,19,419,29,388,JM,JAM
 2006,Jamaica,pc,3000,Americas,Latin America and the Caribbean,Caribbean,0,0,1,19,419,29,388,JM,JAM
 2007,Jamaica,pc,3000,Americas,Latin America and the Caribbean,Caribbean,0,0,1,19,419,29,388,JM,JAM
@@ -2023,6 +2123,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Japan,pc,3675698,Asia,Eastern Asia,NA,0,0,0,142,30,NA,392,JP,JPN
 2020,Japan,cv,788634,Asia,Eastern Asia,NA,0,0,0,142,30,NA,392,JP,JPN
 2021,Japan,cv,772642,Asia,Eastern Asia,NA,0,0,0,142,30,NA,392,JP,JPN
+2022,Japan,pc,3448297,Asia,Eastern Asia,NA,0,0,0,142,30,NA,392,JP,JPN
+2023,Japan,pc,3992727,Asia,Eastern Asia,NA,0,0,0,142,30,NA,392,JP,JPN
+2022,Japan,cv,753023,Asia,Eastern Asia,NA,0,0,0,142,30,NA,392,JP,JPN
+2023,Japan,cv,786359,Asia,Eastern Asia,NA,0,0,0,142,30,NA,392,JP,JPN
 2005,Jordan,pc,10000,Asia,Western Asia,NA,0,0,0,142,145,NA,400,JO,JOR
 2006,Jordan,pc,5000,Asia,Western Asia,NA,0,0,0,142,145,NA,400,JO,JOR
 2007,Jordan,pc,5000,Asia,Western Asia,NA,0,0,0,142,145,NA,400,JO,JOR
@@ -2087,6 +2191,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Kazakhstan,pc,106304,Asia,Central Asia,NA,0,1,0,142,143,NA,398,KZ,KAZ
 2020,Kazakhstan,cv,6209,Asia,Central Asia,NA,0,1,0,142,143,NA,398,KZ,KAZ
 2021,Kazakhstan,cv,7296,Asia,Central Asia,NA,0,1,0,142,143,NA,398,KZ,KAZ
+2022,Kazakhstan,pc,97169,Asia,Central Asia,NA,0,1,0,142,143,NA,398,KZ,KAZ
+2023,Kazakhstan,pc,164000,Asia,Central Asia,NA,0,1,0,142,143,NA,398,KZ,KAZ
+2022,Kazakhstan,cv,4358,Asia,Central Asia,NA,0,1,0,142,143,NA,398,KZ,KAZ
+2023,Kazakhstan,cv,9506,Asia,Central Asia,NA,0,1,0,142,143,NA,398,KZ,KAZ
 2005,Kenya,pc,2000,Africa,Sub-Saharan Africa,Eastern Africa,0,0,0,2,202,14,404,KE,KEN
 2006,Kenya,pc,3000,Africa,Sub-Saharan Africa,Eastern Africa,0,0,0,2,202,14,404,KE,KEN
 2007,Kenya,pc,2000,Africa,Sub-Saharan Africa,Eastern Africa,0,0,0,2,202,14,404,KE,KEN
@@ -2151,6 +2259,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Kuwait,pc,83460,Asia,Western Asia,NA,0,0,0,142,145,NA,414,KW,KWT
 2020,Kuwait,cv,12639,Asia,Western Asia,NA,0,0,0,142,145,NA,414,KW,KWT
 2021,Kuwait,cv,16697,Asia,Western Asia,NA,0,0,0,142,145,NA,414,KW,KWT
+2022,Kuwait,pc,93465,Asia,Western Asia,NA,0,0,0,142,145,NA,414,KW,KWT
+2023,Kuwait,pc,112969,Asia,Western Asia,NA,0,0,0,142,145,NA,414,KW,KWT
+2022,Kuwait,cv,16653,Asia,Western Asia,NA,0,0,0,142,145,NA,414,KW,KWT
+2023,Kuwait,cv,16479,Asia,Western Asia,NA,0,0,0,142,145,NA,414,KW,KWT
 2005,Kyrgyzstan,pc,5000,Asia,Central Asia,NA,0,1,0,142,143,NA,417,KG,KGZ
 2006,Kyrgyzstan,pc,5000,Asia,Central Asia,NA,0,1,0,142,143,NA,417,KG,KGZ
 2007,Kyrgyzstan,pc,5000,Asia,Central Asia,NA,0,1,0,142,143,NA,417,KG,KGZ
@@ -2485,6 +2597,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Malaysia,pc,452663,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,458,MY,MYS
 2020,Malaysia,cv,48469,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,458,MY,MYS
 2021,Malaysia,cv,56248,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,458,MY,MYS
+2022,Malaysia,pc,544838,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,458,MY,MYS
+2023,Malaysia,pc,604000,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,458,MY,MYS
+2022,Malaysia,cv,62162,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,458,MY,MYS
+2023,Malaysia,cv,59000,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,458,MY,MYS
 2005,Malta,pc,6552,Europe,Southern Europe,NA,0,0,0,150,39,NA,470,MT,MLT
 2006,Malta,pc,6745,Europe,Southern Europe,NA,0,0,0,150,39,NA,470,MT,MLT
 2007,Malta,pc,6240,Europe,Southern Europe,NA,0,0,0,150,39,NA,470,MT,MLT
@@ -2609,6 +2725,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Mexico,pc,520112,Americas,Latin America and the Caribbean,Central America,0,0,0,19,419,13,484,MX,MEX
 2020,Mexico,cv,445217,Americas,Latin America and the Caribbean,Central America,0,0,0,19,419,13,484,MX,MEX
 2021,Mexico,cv,526593,Americas,Latin America and the Caribbean,Central America,0,0,0,19,419,13,484,MX,MEX
+2022,Mexico,pc,486962,Americas,Latin America and the Caribbean,Central America,0,0,0,19,419,13,484,MX,MEX
+2023,Mexico,pc,598091,Americas,Latin America and the Caribbean,Central America,0,0,0,19,419,13,484,MX,MEX
+2022,Mexico,cv,647481,Americas,Latin America and the Caribbean,Central America,0,0,0,19,419,13,484,MX,MEX
+2023,Mexico,cv,815830,Americas,Latin America and the Caribbean,Central America,0,0,0,19,419,13,484,MX,MEX
 2005,Moldova,pc,4000,Europe,Eastern Europe,NA,0,1,0,150,151,NA,498,MD,MDA
 2006,Moldova,pc,5000,Europe,Eastern Europe,NA,0,1,0,150,151,NA,498,MD,MDA
 2007,Moldova,pc,7000,Europe,Eastern Europe,NA,0,1,0,150,151,NA,498,MD,MDA
@@ -2703,6 +2823,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Morocco,pc,154284,Africa,Northern Africa,NA,0,0,0,2,15,NA,504,MA,MAR
 2020,Morocco,cv,16262,Africa,Northern Africa,NA,0,0,0,2,15,NA,504,MA,MAR
 2021,Morocco,cv,21151,Africa,Northern Africa,NA,0,0,0,2,15,NA,504,MA,MAR
+2022,Morocco,pc,143265,Africa,Northern Africa,NA,0,0,0,2,15,NA,504,MA,MAR
+2023,Morocco,pc,145218,Africa,Northern Africa,NA,0,0,0,2,15,NA,504,MA,MAR
+2022,Morocco,cv,18144,Africa,Northern Africa,NA,0,0,0,2,15,NA,504,MA,MAR
+2023,Morocco,cv,16286,Africa,Northern Africa,NA,0,0,0,2,15,NA,504,MA,MAR
 2005,Myanmar,pc,1000,Asia,South-eastern Asia,NA,1,0,0,142,35,NA,104,MM,MMR
 2006,Myanmar,pc,1000,Asia,South-eastern Asia,NA,1,0,0,142,35,NA,104,MM,MMR
 2007,Myanmar,pc,1000,Asia,South-eastern Asia,NA,1,0,0,142,35,NA,104,MM,MMR
@@ -2797,6 +2921,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Netherlands,pc,324336,Europe,Western Europe,NA,0,0,0,150,155,NA,528,NL,NLD
 2020,Netherlands,cv,71564,Europe,Western Europe,NA,0,0,0,150,155,NA,528,NL,NLD
 2021,Netherlands,cv,80725,Europe,Western Europe,NA,0,0,0,150,155,NA,528,NL,NLD
+2022,Netherlands,pc,312497,Europe,Western Europe,NA,0,0,0,150,155,NA,528,NL,NLD
+2023,Netherlands,pc,372156,Europe,Western Europe,NA,0,0,0,150,155,NA,528,NL,NLD
+2022,Netherlands,cv,72701,Europe,Western Europe,NA,0,0,0,150,155,NA,528,NL,NLD
+2023,Netherlands,cv,85828,Europe,Western Europe,NA,0,0,0,150,155,NA,528,NL,NLD
 2005,New Caledonia,pc,7397,Oceania,Melanesia,NA,0,0,1,9,54,NA,540,NC,NCL
 2006,New Caledonia,pc,7251,Oceania,Melanesia,NA,0,0,1,9,54,NA,540,NC,NCL
 2007,New Caledonia,pc,7717,Oceania,Melanesia,NA,0,0,1,9,54,NA,540,NC,NCL
@@ -2861,6 +2989,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,New Zealand,pc,111299,Oceania,Australia and New Zealand,NA,0,0,0,9,53,NA,554,NZ,NZL
 2020,New Zealand,cv,35002,Oceania,Australia and New Zealand,NA,0,0,0,9,53,NA,554,NZ,NZL
 2021,New Zealand,cv,48337,Oceania,Australia and New Zealand,NA,0,0,0,9,53,NA,554,NZ,NZL
+2022,New Zealand,pc,116122,Oceania,Australia and New Zealand,NA,0,0,0,9,53,NA,554,NZ,NZL
+2023,New Zealand,pc,110230,Oceania,Australia and New Zealand,NA,0,0,0,9,53,NA,554,NZ,NZL
+2022,New Zealand,cv,48369,Oceania,Australia and New Zealand,NA,0,0,0,9,53,NA,554,NZ,NZL
+2023,New Zealand,cv,38487,Oceania,Australia and New Zealand,NA,0,0,0,9,53,NA,554,NZ,NZL
 2005,Nicaragua,pc,3000,Americas,Latin America and the Caribbean,Central America,0,0,0,19,419,13,558,NI,NIC
 2006,Nicaragua,pc,6000,Americas,Latin America and the Caribbean,Central America,0,0,0,19,419,13,558,NI,NIC
 2007,Nicaragua,pc,6000,Americas,Latin America and the Caribbean,Central America,0,0,0,19,419,13,558,NI,NIC
@@ -2955,6 +3087,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Norway,pc,176276,Europe,Northern Europe,NA,0,0,0,150,154,NA,578,NO,NOR
 2020,Norway,cv,39180,Europe,Northern Europe,NA,0,0,0,150,154,NA,578,NO,NOR
 2021,Norway,cv,41296,Europe,Northern Europe,NA,0,0,0,150,154,NA,578,NO,NOR
+2022,Norway,pc,174329,Europe,Northern Europe,NA,0,0,0,150,154,NA,578,NO,NOR
+2023,Norway,pc,126953,Europe,Northern Europe,NA,0,0,0,150,154,NA,578,NO,NOR
+2022,Norway,cv,35678,Europe,Northern Europe,NA,0,0,0,150,154,NA,578,NO,NOR
+2023,Norway,cv,37100,Europe,Northern Europe,NA,0,0,0,150,154,NA,578,NO,NOR
 2005,Oman,pc,147500,Asia,Western Asia,NA,0,0,0,142,145,NA,512,OM,OMN
 2006,Oman,pc,144700,Asia,Western Asia,NA,0,0,0,142,145,NA,512,OM,OMN
 2007,Oman,pc,146300,Asia,Western Asia,NA,0,0,0,142,145,NA,512,OM,OMN
@@ -3019,6 +3155,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Pakistan,pc,198921,Asia,Southern Asia,NA,0,0,0,142,34,NA,586,PK,PAK
 2020,Pakistan,cv,20042,Asia,Southern Asia,NA,0,0,0,142,34,NA,586,PK,PAK
 2021,Pakistan,cv,38503,Asia,Southern Asia,NA,0,0,0,142,34,NA,586,PK,PAK
+2022,Pakistan,pc,188318,Asia,Southern Asia,NA,0,0,0,142,34,NA,586,PK,PAK
+2023,Pakistan,pc,58562,Asia,Southern Asia,NA,0,0,0,142,34,NA,586,PK,PAK
+2022,Pakistan,cv,39074,Asia,Southern Asia,NA,0,0,0,142,34,NA,586,PK,PAK
+2023,Pakistan,cv,23656,Asia,Southern Asia,NA,0,0,0,142,34,NA,586,PK,PAK
 2005,Palestine,pc,13500,Asia,Western Asia,NA,0,0,0,142,145,NA,275,PS,PSE
 2006,Palestine,pc,15700,Asia,Western Asia,NA,0,0,0,142,145,NA,275,PS,PSE
 2007,Palestine,pc,16400,Asia,Western Asia,NA,0,0,0,142,145,NA,275,PS,PSE
@@ -3143,6 +3283,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Peru,pc,111436,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,604,PE,PER
 2020,Peru,cv,27503,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,604,PE,PER
 2021,Peru,cv,41420,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,604,PE,PER
+2022,Peru,pc,118915,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,604,PE,PER
+2023,Peru,pc,116724,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,604,PE,PER
+2022,Peru,cv,43180,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,604,PE,PER
+2023,Peru,cv,48422,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,604,PE,PER
 2005,Philippines,pc,35063,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,608,PH,PHL
 2006,Philippines,pc,38131,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,608,PH,PHL
 2007,Philippines,pc,41107,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,608,PH,PHL
@@ -3177,6 +3321,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Philippines,pc,180642,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,608,PH,PHL
 2020,Philippines,cv,90345,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,608,PH,PHL
 2021,Philippines,cv,106092,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,608,PH,PHL
+2022,Philippines,pc,226403,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,608,PH,PHL
+2023,Philippines,pc,282507,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,608,PH,PHL
+2022,Philippines,cv,132967,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,608,PH,PHL
+2023,Philippines,cv,135742,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,608,PH,PHL
 2005,Poland,pc,207007,Europe,Eastern Europe,NA,0,0,0,150,151,NA,616,PL,POL
 2006,Poland,pc,224728,Europe,Eastern Europe,NA,0,0,0,150,151,NA,616,PL,POL
 2007,Poland,pc,277427,Europe,Eastern Europe,NA,0,0,0,150,151,NA,616,PL,POL
@@ -3211,6 +3359,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Poland,pc,446647,Europe,Eastern Europe,NA,0,0,0,150,151,NA,616,PL,POL
 2020,Poland,cv,81806,Europe,Eastern Europe,NA,0,0,0,150,151,NA,616,PL,POL
 2021,Poland,cv,107966,Europe,Eastern Europe,NA,0,0,0,150,151,NA,616,PL,POL
+2022,Poland,pc,419749,Europe,Eastern Europe,NA,0,0,0,150,151,NA,616,PL,POL
+2023,Poland,pc,475032,Europe,Eastern Europe,NA,0,0,0,150,151,NA,616,PL,POL
+2022,Poland,cv,97934,Europe,Eastern Europe,NA,0,0,0,150,151,NA,616,PL,POL
+2023,Poland,cv,101818,Europe,Eastern Europe,NA,0,0,0,150,151,NA,616,PL,POL
 2005,Portugal,pc,206488,Europe,Southern Europe,NA,0,0,0,150,39,NA,620,PT,PRT
 2006,Portugal,pc,194702,Europe,Southern Europe,NA,0,0,0,150,39,NA,620,PT,PRT
 2007,Portugal,pc,201816,Europe,Southern Europe,NA,0,0,0,150,39,NA,620,PT,PRT
@@ -3245,6 +3397,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Portugal,pc,149740,Europe,Southern Europe,NA,0,0,0,150,39,NA,620,PT,PRT
 2020,Portugal,cv,31575,Europe,Southern Europe,NA,0,0,0,150,39,NA,620,PT,PRT
 2021,Portugal,cv,33650,Europe,Southern Europe,NA,0,0,0,150,39,NA,620,PT,PRT
+2022,Portugal,pc,157076,Europe,Southern Europe,NA,0,0,0,150,39,NA,620,PT,PRT
+2023,Portugal,pc,199623,Europe,Southern Europe,NA,0,0,0,150,39,NA,620,PT,PRT
+2022,Portugal,cv,29063,Europe,Southern Europe,NA,0,0,0,150,39,NA,620,PT,PRT
+2023,Portugal,cv,30262,Europe,Southern Europe,NA,0,0,0,150,39,NA,620,PT,PRT
 2005,Puerto Rico,pc,96000,Americas,Latin America and the Caribbean,Caribbean,0,0,1,19,419,29,630,PR,PRI
 2006,Puerto Rico,pc,85000,Americas,Latin America and the Caribbean,Caribbean,0,0,1,19,419,29,630,PR,PRI
 2007,Puerto Rico,pc,92000,Americas,Latin America and the Caribbean,Caribbean,0,0,1,19,419,29,630,PR,PRI
@@ -3279,6 +3435,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Puerto Rico,pc,85486,Americas,Latin America and the Caribbean,Caribbean,0,0,1,19,419,29,630,PR,PRI
 2020,Puerto Rico,cv,19454,Americas,Latin America and the Caribbean,Caribbean,0,0,1,19,419,29,630,PR,PRI
 2021,Puerto Rico,cv,19863,Americas,Latin America and the Caribbean,Caribbean,0,0,1,19,419,29,630,PR,PRI
+2022,Puerto Rico,pc,90911,Americas,Latin America and the Caribbean,Caribbean,0,0,1,19,419,29,630,PR,PRI
+2023,Puerto Rico,pc,96319,Americas,Latin America and the Caribbean,Caribbean,0,0,1,19,419,29,630,PR,PRI
+2022,Puerto Rico,cv,18111,Americas,Latin America and the Caribbean,Caribbean,0,0,1,19,419,29,630,PR,PRI
+2023,Puerto Rico,cv,22391,Americas,Latin America and the Caribbean,Caribbean,0,0,1,19,419,29,630,PR,PRI
 2005,Qatar,pc,61100,Asia,Western Asia,NA,0,0,0,142,145,NA,634,QA,QAT
 2006,Qatar,pc,59900,Asia,Western Asia,NA,0,0,0,142,145,NA,634,QA,QAT
 2007,Qatar,pc,60500,Asia,Western Asia,NA,0,0,0,142,145,NA,634,QA,QAT
@@ -3373,6 +3533,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Romania,pc,120804,Europe,Eastern Europe,NA,0,0,0,150,151,NA,642,RO,ROU
 2020,Romania,cv,19379,Europe,Eastern Europe,NA,0,0,0,150,151,NA,642,RO,ROU
 2021,Romania,cv,23418,Europe,Eastern Europe,NA,0,0,0,150,151,NA,642,RO,ROU
+2022,Romania,pc,129328,Europe,Eastern Europe,NA,0,0,0,150,151,NA,642,RO,ROU
+2023,Romania,pc,142791,Europe,Eastern Europe,NA,0,0,0,150,151,NA,642,RO,ROU
+2022,Romania,cv,21313,Europe,Eastern Europe,NA,0,0,0,150,151,NA,642,RO,ROU
+2023,Romania,cv,27927,Europe,Eastern Europe,NA,0,0,0,150,151,NA,642,RO,ROU
 2005,Russia,pc,1520225,Europe,Eastern Europe,NA,0,0,0,150,151,NA,643,RU,RUS
 2006,Russia,pc,1911240,Europe,Eastern Europe,NA,0,0,0,150,151,NA,643,RU,RUS
 2007,Russia,pc,2514920,Europe,Eastern Europe,NA,0,0,0,150,151,NA,643,RU,RUS
@@ -3407,6 +3571,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Russia,pc,1483444,Europe,Eastern Europe,NA,0,0,0,150,151,NA,643,RU,RUS
 2020,Russia,cv,197207,Europe,Eastern Europe,NA,0,0,0,150,151,NA,643,RU,RUS
 2021,Russia,cv,258521,Europe,Eastern Europe,NA,0,0,0,150,151,NA,643,RU,RUS
+2022,Russia,pc,629923,Europe,Eastern Europe,NA,0,0,0,150,151,NA,643,RU,RUS
+2023,Russia,pc,1049917,Europe,Eastern Europe,NA,0,0,0,150,151,NA,643,RU,RUS
+2022,Russia,cv,178681,Europe,Eastern Europe,NA,0,0,0,150,151,NA,643,RU,RUS
+2023,Russia,cv,267521,Europe,Eastern Europe,NA,0,0,0,150,151,NA,643,RU,RUS
 2005,Saudi Arabia,pc,407000,Asia,Western Asia,NA,0,0,0,142,145,NA,682,SA,SAU
 2006,Saudi Arabia,pc,399300,Asia,Western Asia,NA,0,0,0,142,145,NA,682,SA,SAU
 2007,Saudi Arabia,pc,403600,Asia,Western Asia,NA,0,0,0,142,145,NA,682,SA,SAU
@@ -3441,6 +3609,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Saudi Arabia,pc,475837,Asia,Western Asia,NA,0,0,0,142,145,NA,682,SA,SAU
 2020,Saudi Arabia,cv,64835,Asia,Western Asia,NA,0,0,0,142,145,NA,682,SA,SAU
 2021,Saudi Arabia,cv,80722,Asia,Western Asia,NA,0,0,0,142,145,NA,682,SA,SAU
+2022,Saudi Arabia,pc,519485,Asia,Western Asia,NA,0,0,0,142,145,NA,682,SA,SAU
+2023,Saudi Arabia,pc,645723,Asia,Western Asia,NA,0,0,0,142,145,NA,682,SA,SAU
+2022,Saudi Arabia,cv,97006,Asia,Western Asia,NA,0,0,0,142,145,NA,682,SA,SAU
+2023,Saudi Arabia,cv,113068,Asia,Western Asia,NA,0,0,0,142,145,NA,682,SA,SAU
 2005,Senegal,pc,3000,Africa,Sub-Saharan Africa,Western Africa,1,0,0,2,202,11,686,SN,SEN
 2006,Senegal,pc,3000,Africa,Sub-Saharan Africa,Western Africa,1,0,0,2,202,11,686,SN,SEN
 2007,Senegal,pc,3000,Africa,Sub-Saharan Africa,Western Africa,1,0,0,2,202,11,686,SN,SEN
@@ -3565,6 +3737,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Slovakia,pc,75700,Europe,Eastern Europe,NA,0,0,0,150,151,NA,703,SK,SVK
 2020,Slovakia,cv,8604,Europe,Eastern Europe,NA,0,0,0,150,151,NA,703,SK,SVK
 2021,Slovakia,cv,11649,Europe,Eastern Europe,NA,0,0,0,150,151,NA,703,SK,SVK
+2022,Slovakia,pc,78841,Europe,Eastern Europe,NA,0,0,0,150,151,NA,703,SK,SVK
+2023,Slovakia,pc,88003,Europe,Eastern Europe,NA,0,0,0,150,151,NA,703,SK,SVK
+2022,Slovakia,cv,11233,Europe,Eastern Europe,NA,0,0,0,150,151,NA,703,SK,SVK
+2023,Slovakia,cv,13839,Europe,Eastern Europe,NA,0,0,0,150,151,NA,703,SK,SVK
 2005,Slovenia,pc,59324,Europe,Southern Europe,NA,0,0,0,150,39,NA,705,SI,SVN
 2006,Slovenia,pc,59578,Europe,Southern Europe,NA,0,0,0,150,39,NA,705,SI,SVN
 2007,Slovenia,pc,68719,Europe,Southern Europe,NA,0,0,0,150,39,NA,705,SI,SVN
@@ -3631,6 +3807,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,South Africa,pc,304340,Africa,Sub-Saharan Africa,Southern Africa,0,0,0,2,202,18,710,ZA,ZAF
 2020,South Africa,cv,126092,Africa,Sub-Saharan Africa,Southern Africa,0,0,0,2,202,18,710,ZA,ZAF
 2021,South Africa,cv,160153,Africa,Sub-Saharan Africa,Southern Africa,0,0,0,2,202,18,710,ZA,ZAF
+2022,South Africa,pc,363390,Africa,Sub-Saharan Africa,Southern Africa,0,0,0,2,202,18,710,ZA,ZAF
+2023,South Africa,pc,347388,Africa,Sub-Saharan Africa,Southern Africa,0,0,0,2,202,18,710,ZA,ZAF
+2022,South Africa,cv,150788,Africa,Sub-Saharan Africa,Southern Africa,0,0,0,2,202,18,710,ZA,ZAF
+2023,South Africa,cv,184399,Africa,Sub-Saharan Africa,Southern Africa,0,0,0,2,202,18,710,ZA,ZAF
 2005,South Korea,pc,893159,Asia,Eastern Asia,NA,0,0,0,142,30,NA,410,KR,KOR
 2006,South Korea,pc,932650,Asia,Eastern Asia,NA,0,0,0,142,30,NA,410,KR,KOR
 2007,South Korea,pc,1010790,Asia,Eastern Asia,NA,0,0,0,142,30,NA,410,KR,KOR
@@ -3665,6 +3845,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,South Korea,pc,1468873,Asia,Eastern Asia,NA,0,0,0,142,30,NA,410,KR,KOR
 2020,South Korea,cv,287639,Asia,Eastern Asia,NA,0,0,0,142,30,NA,410,KR,KOR
 2021,South Korea,cv,265708,Asia,Eastern Asia,NA,0,0,0,142,30,NA,410,KR,KOR
+2022,South Korea,pc,1420486,Asia,Eastern Asia,NA,0,0,0,142,30,NA,410,KR,KOR
+2023,South Korea,pc,1489363,Asia,Eastern Asia,NA,0,0,0,142,30,NA,410,KR,KOR
+2022,South Korea,cv,263171,Asia,Eastern Asia,NA,0,0,0,142,30,NA,410,KR,KOR
+2023,South Korea,cv,260366,Asia,Eastern Asia,NA,0,0,0,142,30,NA,410,KR,KOR
 2005,Spain,pc,1528877,Europe,Southern Europe,NA,0,0,0,150,39,NA,724,ES,ESP
 2006,Spain,pc,1634608,Europe,Southern Europe,NA,0,0,0,150,39,NA,724,ES,ESP
 2007,Spain,pc,1614835,Europe,Southern Europe,NA,0,0,0,150,39,NA,724,ES,ESP
@@ -3697,6 +3881,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2019,Spain,cv,243000,Europe,Southern Europe,NA,0,0,0,150,39,NA,724,ES,ESP
 2020,Spain,pc,851210,Europe,Southern Europe,NA,0,0,0,150,39,NA,724,ES,ESP
 2021,Spain,pc,859476,Europe,Southern Europe,NA,0,0,0,150,39,NA,724,ES,ESP
+2022,Spain,pc,813376,Europe,Southern Europe,NA,0,0,0,150,39,NA,724,ES,ESP
+2023,Spain,pc,949359,Europe,Southern Europe,NA,0,0,0,150,39,NA,724,ES,ESP
+2022,Spain,cv,145602,Europe,Southern Europe,NA,0,0,0,150,39,NA,724,ES,ESP
+2023,Spain,cv,178509,Europe,Southern Europe,NA,0,0,0,150,39,NA,724,ES,ESP
 2005,Sri Lanka,pc,2600,Asia,Southern Asia,NA,0,0,0,142,34,NA,144,LK,LKA
 2006,Sri Lanka,pc,2800,Asia,Southern Asia,NA,0,0,0,142,34,NA,144,LK,LKA
 2007,Sri Lanka,pc,2900,Asia,Southern Asia,NA,0,0,0,142,34,NA,144,LK,LKA
@@ -3791,6 +3979,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Sweden,pc,301006,Europe,Northern Europe,NA,0,0,0,150,154,NA,752,SE,SWE
 2020,Sweden,cv,38191,Europe,Northern Europe,NA,0,0,0,150,154,NA,752,SE,SWE
 2021,Sweden,cv,42874,Europe,Northern Europe,NA,0,0,0,150,154,NA,752,SE,SWE
+2022,Sweden,pc,288087,Europe,Northern Europe,NA,0,0,0,150,154,NA,752,SE,SWE
+2023,Sweden,pc,289827,Europe,Northern Europe,NA,0,0,0,150,154,NA,752,SE,SWE
+2022,Sweden,cv,41781,Europe,Northern Europe,NA,0,0,0,150,154,NA,752,SE,SWE
+2023,Sweden,cv,52015,Europe,Northern Europe,NA,0,0,0,150,154,NA,752,SE,SWE
 2005,Switzerland,pc,266770,Europe,Western Europe,NA,0,0,0,150,155,NA,756,CH,CHE
 2006,Switzerland,pc,269421,Europe,Western Europe,NA,0,0,0,150,155,NA,756,CH,CHE
 2007,Switzerland,pc,284674,Europe,Western Europe,NA,0,0,0,150,155,NA,756,CH,CHE
@@ -3825,6 +4017,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Switzerland,pc,238481,Europe,Western Europe,NA,0,0,0,150,155,NA,756,CH,CHE
 2020,Switzerland,cv,32563,Europe,Western Europe,NA,0,0,0,150,155,NA,756,CH,CHE
 2021,Switzerland,cv,33768,Europe,Western Europe,NA,0,0,0,150,155,NA,756,CH,CHE
+2022,Switzerland,pc,225934,Europe,Western Europe,NA,0,0,0,150,155,NA,756,CH,CHE
+2023,Switzerland,pc,252214,Europe,Western Europe,NA,0,0,0,150,155,NA,756,CH,CHE
+2022,Switzerland,cv,28749,Europe,Western Europe,NA,0,0,0,150,155,NA,756,CH,CHE
+2023,Switzerland,cv,35222,Europe,Western Europe,NA,0,0,0,150,155,NA,756,CH,CHE
 2005,Syria,pc,32985,Asia,Western Asia,NA,0,0,0,142,145,NA,760,SY,SYR
 2006,Syria,pc,45467,Asia,Western Asia,NA,0,0,0,142,145,NA,760,SY,SYR
 2007,Syria,pc,36000,Asia,Western Asia,NA,0,0,0,142,145,NA,760,SY,SYR
@@ -3889,6 +4085,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Taiwan,pc,382000,Asia,Eastern Asia,NA,0,0,0,142,30,NA,NA,CN-TW,TWN
 2020,Taiwan,cv,35533,Asia,Eastern Asia,NA,0,0,0,142,30,NA,NA,CN-TW,TWN
 2021,Taiwan,cv,40000,Asia,Eastern Asia,NA,0,0,0,142,30,NA,NA,CN-TW,TWN
+2022,Taiwan,pc,375841,Asia,Eastern Asia,NA,0,0,0,142,30,NA,NA,CN-TW,TWN
+2023,Taiwan,pc,372800,Asia,Eastern Asia,NA,0,0,0,142,30,NA,NA,CN-TW,TWN
+2022,Taiwan,cv,39354,Asia,Eastern Asia,NA,0,0,0,142,30,NA,NA,CN-TW,TWN
+2023,Taiwan,cv,61200,Asia,Eastern Asia,NA,0,0,0,142,30,NA,NA,CN-TW,TWN
 2005,Tajikistan,pc,5300,Asia,Central Asia,NA,0,1,0,142,143,NA,762,TJ,TJK
 2006,Tajikistan,pc,5700,Asia,Central Asia,NA,0,1,0,142,143,NA,762,TJ,TJK
 2007,Tajikistan,pc,5800,Asia,Central Asia,NA,0,1,0,142,143,NA,762,TJ,TJK
@@ -3983,6 +4183,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Thailand,pc,312200,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,764,TH,THA
 2020,Thailand,cv,448652,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,764,TH,THA
 2021,Thailand,cv,436380,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,764,TH,THA
+2022,Thailand,pc,343349,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,764,TH,THA
+2023,Thailand,pc,406501,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,764,TH,THA
+2022,Thailand,cv,506039,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,764,TH,THA
+2023,Thailand,cv,369279,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,764,TH,THA
 2005,Trinidad and Tobago,pc,10000,Americas,Latin America and the Caribbean,Caribbean,0,0,1,19,419,29,780,TT,TTO
 2006,Trinidad and Tobago,pc,10000,Americas,Latin America and the Caribbean,Caribbean,0,0,1,19,419,29,780,TT,TTO
 2007,Trinidad and Tobago,pc,5000,Americas,Latin America and the Caribbean,Caribbean,0,0,1,19,419,29,780,TT,TTO
@@ -4077,6 +4281,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Turkey,pc,561853,Asia,Western Asia,NA,0,0,0,142,145,NA,792,TR,TUR
 2020,Turkey,cv,186041,Asia,Western Asia,NA,0,0,0,142,145,NA,792,TR,TUR
 2021,Turkey,cv,210869,Asia,Western Asia,NA,0,0,0,142,145,NA,792,TR,TUR
+2022,Turkey,pc,592660,Asia,Western Asia,NA,0,0,0,142,145,NA,792,TR,TUR
+2023,Turkey,pc,967341,Asia,Western Asia,NA,0,0,0,142,145,NA,792,TR,TUR
+2022,Turkey,cv,238560,Asia,Western Asia,NA,0,0,0,142,145,NA,792,TR,TUR
+2023,Turkey,cv,321337,Asia,Western Asia,NA,0,0,0,142,145,NA,792,TR,TUR
 2005,Turkmenistan,pc,3900,Asia,Central Asia,NA,0,1,0,142,143,NA,795,TM,TKM
 2006,Turkmenistan,pc,4200,Asia,Central Asia,NA,0,1,0,142,143,NA,795,TM,TKM
 2007,Turkmenistan,pc,4300,Asia,Central Asia,NA,0,1,0,142,143,NA,795,TM,TKM
@@ -4107,6 +4315,44 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2017,Turkmenistan,cv,515,Asia,Central Asia,NA,0,1,0,142,143,NA,795,TM,TKM
 2018,Turkmenistan,cv,565,Asia,Central Asia,NA,0,1,0,142,143,NA,795,TM,TKM
 2019,Turkmenistan,cv,570,Asia,Central Asia,NA,0,1,0,142,143,NA,795,TM,TKM
+2005,USA,pc,7659983,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
+2006,USA,pc,7761592,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
+2007,USA,pc,7562334,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
+2008,USA,pc,6769107,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
+2009,USA,pc,5400890,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
+2010,USA,pc,5635432,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
+2011,USA,pc,6089403,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
+2012,USA,pc,7241900,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
+2013,USA,pc,7585341,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
+2014,USA,pc,7689110,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
+2015,USA,pc,7516826,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
+2016,USA,pc,6872729,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
+2017,USA,pc,6080229,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
+2018,USA,pc,5303580,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
+2019,USA,pc,4715005,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
+2005,USA,cv,9784346,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
+2006,USA,cv,9287389,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
+2007,USA,cv,8897981,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
+2008,USA,cv,6724058,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
+2009,USA,cv,5200478,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
+2010,USA,cv,6136787,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
+2011,USA,cv,6951210,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
+2012,USA,cv,7544036,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
+2013,USA,cv,8298102,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
+2014,USA,cv,9154354,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
+2015,USA,cv,10328798,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
+2016,USA,cv,10993044,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
+2017,USA,cv,11470292,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
+2018,USA,cv,12397822,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
+2019,USA,cv,12764999,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
+2020,USA,pc,3401838,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
+2021,USA,pc,3350050,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
+2020,USA,cv,11479518,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
+2021,USA,cv,12058515,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
+2022,USA,pc,2858575,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
+2023,USA,pc,3116647,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
+2022,USA,cv,11371749,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
+2023,USA,cv,12892621,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
 2005,Uganda,pc,3000,Africa,Sub-Saharan Africa,Eastern Africa,1,1,0,2,202,14,800,UG,UGA
 2006,Uganda,pc,3500,Africa,Sub-Saharan Africa,Eastern Africa,1,1,0,2,202,14,800,UG,UGA
 2007,Uganda,pc,3000,Africa,Sub-Saharan Africa,Eastern Africa,1,1,0,2,202,14,800,UG,UGA
@@ -4171,6 +4417,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Ukraine,pc,103262,Europe,Eastern Europe,NA,0,0,0,150,151,NA,804,UA,UKR
 2020,Ukraine,cv,13536,Europe,Eastern Europe,NA,0,0,0,150,151,NA,804,UA,UKR
 2021,Ukraine,cv,18510,Europe,Eastern Europe,NA,0,0,0,150,151,NA,804,UA,UKR
+2022,Ukraine,pc,37891,Europe,Eastern Europe,NA,0,0,0,150,151,NA,804,UA,UKR
+2023,Ukraine,pc,60862,Europe,Eastern Europe,NA,0,0,0,150,151,NA,804,UA,UKR
+2022,Ukraine,cv,7770,Europe,Eastern Europe,NA,0,0,0,150,151,NA,804,UA,UKR
+2023,Ukraine,cv,12907,Europe,Eastern Europe,NA,0,0,0,150,151,NA,804,UA,UKR
 2005,United Arab Emirates,pc,137000,Asia,Western Asia,NA,0,0,0,142,145,NA,784,AE,ARE
 2006,United Arab Emirates,pc,150000,Asia,Western Asia,NA,0,0,0,142,145,NA,784,AE,ARE
 2007,United Arab Emirates,pc,135000,Asia,Western Asia,NA,0,0,0,142,145,NA,784,AE,ARE
@@ -4205,6 +4455,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,United Arab Emirates,pc,156780,Asia,Western Asia,NA,0,0,0,142,145,NA,784,AE,ARE
 2020,United Arab Emirates,cv,28810,Asia,Western Asia,NA,0,0,0,142,145,NA,784,AE,ARE
 2021,United Arab Emirates,cv,32064,Asia,Western Asia,NA,0,0,0,142,145,NA,784,AE,ARE
+2022,United Arab Emirates,pc,171414,Asia,Western Asia,NA,0,0,0,142,145,NA,784,AE,ARE
+2023,United Arab Emirates,pc,225386,Asia,Western Asia,NA,0,0,0,142,145,NA,784,AE,ARE
+2022,United Arab Emirates,cv,36125,Asia,Western Asia,NA,0,0,0,142,145,NA,784,AE,ARE
+2023,United Arab Emirates,cv,33753,Asia,Western Asia,NA,0,0,0,142,145,NA,784,AE,ARE
 2005,United Kingdom,pc,2439717,Europe,Northern Europe,NA,0,0,0,150,154,NA,826,GB,GBR
 2006,United Kingdom,pc,2344864,Europe,Northern Europe,NA,0,0,0,150,154,NA,826,GB,GBR
 2007,United Kingdom,pc,2404007,Europe,Northern Europe,NA,0,0,0,150,154,NA,826,GB,GBR
@@ -4239,6 +4493,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,United Kingdom,pc,1647181,Europe,Northern Europe,NA,0,0,0,150,154,NA,826,GB,GBR
 2020,United Kingdom,cv,333596,Europe,Northern Europe,NA,0,0,0,150,154,NA,826,GB,GBR
 2021,United Kingdom,cv,396910,Europe,Northern Europe,NA,0,0,0,150,154,NA,826,GB,GBR
+2022,United Kingdom,pc,1614063,Europe,Northern Europe,NA,0,0,0,150,154,NA,826,GB,GBR
+2023,United Kingdom,pc,1903054,Europe,Northern Europe,NA,0,0,0,150,154,NA,826,GB,GBR
+2022,United Kingdom,cv,329509,Europe,Northern Europe,NA,0,0,0,150,154,NA,826,GB,GBR
+2023,United Kingdom,cv,360612,Europe,Northern Europe,NA,0,0,0,150,154,NA,826,GB,GBR
 2005,Uruguay,pc,10000,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,858,UY,URY
 2006,Uruguay,pc,10000,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,858,UY,URY
 2007,Uruguay,pc,12000,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,858,UY,URY
@@ -4269,40 +4527,6 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2017,Uruguay,cv,12951,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,858,UY,URY
 2018,Uruguay,cv,9838,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,858,UY,URY
 2019,Uruguay,cv,10542,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,858,UY,URY
-2005,USA,pc,7659983,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
-2006,USA,pc,7761592,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
-2007,USA,pc,7562334,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
-2008,USA,pc,6769107,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
-2009,USA,pc,5400890,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
-2010,USA,pc,5635432,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
-2011,USA,pc,6089403,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
-2012,USA,pc,7241900,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
-2013,USA,pc,7585341,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
-2014,USA,pc,7689110,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
-2015,USA,pc,7516826,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
-2016,USA,pc,6872729,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
-2017,USA,pc,6080229,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
-2018,USA,pc,5303580,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
-2019,USA,pc,4715005,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
-2005,USA,cv,9784346,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
-2006,USA,cv,9287389,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
-2007,USA,cv,8897981,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
-2008,USA,cv,6724058,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
-2009,USA,cv,5200478,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
-2010,USA,cv,6136787,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
-2011,USA,cv,6951210,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
-2012,USA,cv,7544036,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
-2013,USA,cv,8298102,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
-2014,USA,cv,9154354,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
-2015,USA,cv,10328798,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
-2016,USA,cv,10993044,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
-2017,USA,cv,11470292,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
-2018,USA,cv,12397822,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
-2019,USA,cv,12764999,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
-2020,USA,pc,3401838,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
-2021,USA,pc,3350050,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
-2020,USA,cv,11479518,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
-2021,USA,cv,12058515,Americas,Northern America,NA,0,0,0,19,21,NA,840,US,USA
 2005,Uzbekistan,pc,28500,Asia,Central Asia,NA,0,1,0,142,143,NA,860,UZ,UZB
 2006,Uzbekistan,pc,31100,Asia,Central Asia,NA,0,1,0,142,143,NA,860,UZ,UZB
 2007,Uzbekistan,pc,31700,Asia,Central Asia,NA,0,1,0,142,143,NA,860,UZ,UZB
@@ -4337,6 +4561,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Uzbekistan,pc,138377,Asia,Central Asia,NA,0,1,0,142,143,NA,860,UZ,UZB
 2020,Uzbekistan,cv,48750,Asia,Central Asia,NA,0,1,0,142,143,NA,860,UZ,UZB
 2021,Uzbekistan,cv,46123,Asia,Central Asia,NA,0,1,0,142,143,NA,860,UZ,UZB
+2022,Uzbekistan,pc,153750,Asia,Central Asia,NA,0,1,0,142,143,NA,860,UZ,UZB
+2023,Uzbekistan,pc,146456,Asia,Central Asia,NA,0,1,0,142,143,NA,860,UZ,UZB
+2022,Uzbekistan,cv,51395,Asia,Central Asia,NA,0,1,0,142,143,NA,860,UZ,UZB
+2023,Uzbekistan,cv,49044,Asia,Central Asia,NA,0,1,0,142,143,NA,860,UZ,UZB
 2005,Venezuela,pc,128601,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,862,VE,VEN
 2006,Venezuela,pc,184108,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,862,VE,VEN
 2007,Venezuela,pc,267932,Americas,Latin America and the Caribbean,South America,0,0,0,19,419,5,862,VE,VEN
@@ -4401,6 +4629,10 @@ year,country,type,n,region,subregion,intermediate_region,least_developed,land_lo
 2021,Vietnam,pc,207693,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,704,VN,VNM
 2020,Vietnam,cv,45630,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,704,VN,VNM
 2021,Vietnam,cv,53157,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,704,VN,VNM
+2022,Vietnam,pc,283352,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,704,VN,VNM
+2023,Vietnam,pc,290071,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,704,VN,VNM
+2022,Vietnam,cv,46928,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,704,VN,VNM
+2023,Vietnam,cv,48783,Asia,South-eastern Asia,NA,0,0,0,142,35,NA,704,VN,VNM
 2005,Yemen,pc,4000,Asia,Western Asia,NA,1,0,0,142,145,NA,887,YE,YEM
 2006,Yemen,pc,4700,Asia,Western Asia,NA,1,0,0,142,145,NA,887,YE,YEM
 2007,Yemen,pc,4800,Asia,Western Asia,NA,1,0,0,142,145,NA,887,YE,YEM

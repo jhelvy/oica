@@ -1,4 +1,6 @@
 year,region,type,n
+2022, Including Lcv& Hcv,pc,NA
+2023, Including Lcv& Hcv,pc,NA
 2005,Africa,pc,784237
 2005,Africa,cv,328780
 2006,Africa,pc,926966
@@ -33,6 +35,10 @@ year,region,type,n
 2020,Africa,cv,259251
 2021,Africa,pc,833015
 2021,Africa,cv,311992
+2022,Africa,pc,789887
+2022,Africa,cv,285501
+2023,Africa,pc,747736
+2023,Africa,cv,302106
 2005,All Countries,pc,45407298
 2005,All Countries,cv,20516496
 2006,All Countries,pc,47955259
@@ -67,6 +73,10 @@ year,region,type,n
 2020,All Countries/Regions,cv,24857167
 2021,All Countries/Regions,pc,56398471
 2021,All Countries/Regions,cv,26286317
+2022,All Countries/Regions,pc,58644601
+2022,All Countries/Regions,cv,24226493
+2023,All Countries/Regions,pc,65272367
+2023,All Countries/Regions,cv,27452300.996696945
 2005,America,pc,11618929
 2005,America,cv,11719925
 2006,America,pc,12048814
@@ -101,10 +111,18 @@ year,region,type,n
 2020,America,cv,13950808
 2021,America,pc,7024288
 2021,America,cv,14976864
+2022,America,pc,6551141
+2022,America,cv,14325719
+2023,America,pc,6953212
+2023,America,cv,16294084
 2020,Asean,pc,1650462
 2020,Asean,cv,806874
 2021,Asean,pc,1875335
 2021,Asean,cv,904503
+2022,Asean,pc,2232055
+2022,Asean,cv,1037350
+2023,Asean,pc,2408943
+2023,Asean,cv,857645
 2005,Asia/Oceania/Middle East,pc,15097677
 2005,Asia/Oceania/Middle East,cv,5310920
 2006,Asia/Oceania/Middle East,pc,16293923
@@ -139,6 +157,10 @@ year,region,type,n
 2020,Asia/Oceania/Middle East,cv,8112180
 2021,Asia/Oceania/Middle East,pc,34520682
 2021,Asia/Oceania/Middle East,cv,8143054
+2022,Asia/Oceania/Middle East,pc,38666093
+2022,Asia/Oceania/Middle East,cv,7172852
+2023,Asia/Oceania/Middle East,pc,42572562
+2023,Asia/Oceania/Middle East,cv,7956001
 2005,Central & South America,pc,2397500
 2005,Central & South America,cv,698375
 2006,Central & South America,pc,2747450
@@ -173,6 +195,10 @@ year,region,type,n
 2020,Central & South America,cv,758349
 2021,Central & South America,pc,2833521
 2021,Central & South America,cv,1007511
+2022,Central & South America,pc,2947121
+2022,Central & South America,cv,1002007
+2023,Central & South America,pc,2976315
+2023,Central & South America,cv,1083276
 2005,EU,pc,15622035
 2005,EU,cv,2564001
 2006,EU,pc,15961138
@@ -207,6 +233,10 @@ year,region,type,n
 2020,EU,cv,2123764
 2021,EU,pc,11782751
 2021,EU,cv,2350868
+2022,EU,pc,11293782
+2022,EU,cv,2001888
+2023,EU,pc,12846069
+2023,EU,cv,2282401.996696945
 2005,Europe,pc,17906455
 2005,Europe,cv,3156871
 2006,Europe,pc,18685556
@@ -241,6 +271,10 @@ year,region,type,n
 2020,Europe,cv,2534928
 2021,Europe,pc,14020486
 2021,Europe,cv,2854407
+2022,Europe,pc,12637480
+2022,Europe,cv,2442421
+2023,Europe,pc,14998857
+2023,Europe,cv,2900109.996696945
 2005,Ivory Coast,pc,2000
 2005,Ivory Coast,cv,1000
 2006,Ivory Coast,pc,2500
@@ -339,6 +373,10 @@ year,region,type,n
 2020,Other Countries,cv,33285
 2021,Other Countries,pc,194715
 2021,Other Countries,cv,42488
+2022,Other Countries,pc,185910
+2022,Other Countries,cv,42841
+2023,Other Countries,pc,206872
+2023,Other Countries,cv,47334
 2020,Other Countries/Regions,pc,92463
 2020,Other Countries/Regions,pc,189795
 2020,Other Countries/Regions,pc,294228
@@ -355,6 +393,22 @@ year,region,type,n
 2021,Other Countries/Regions,cv,93097
 2021,Other Countries/Regions,cv,115346
 2021,Other Countries/Regions,cv,67955
+2022,Other Countries/Regions,pc,75825
+2022,Other Countries/Regions,pc,277993
+2022,Other Countries/Regions,pc,1509079
+2022,Other Countries/Regions,pc,149375
+2022,Other Countries/Regions,cv,14454
+2022,Other Countries/Regions,cv,109915
+2022,Other Countries/Regions,cv,244053
+2022,Other Countries/Regions,cv,75301
+2023,Other Countries/Regions,pc,67614
+2023,Other Countries/Regions,pc,305851
+2023,Other Countries/Regions,pc,1566261
+2023,Other Countries/Regions,pc,185955
+2023,Other Countries/Regions,cv,14230
+2023,Other Countries/Regions,cv,120735
+2023,Other Countries/Regions,cv,300683
+2023,Other Countries/Regions,cv,84552
 2005,"Russia, Turkey & Other Europe",pc,2284420
 2005,"Russia, Turkey & Other Europe",cv,592870
 2006,"Russia, Turkey & Other Europe",pc,2724418
@@ -389,7 +443,19 @@ year,region,type,n
 2020,"Russia, Turkey & Other Europe",cv,411164
 2021,"Russia, Turkey & Other Europe",pc,2237735
 2021,"Russia, Turkey & Other Europe",cv,503539
+2022,"Russia, Turkey & Other Europe",pc,1343698
+2022,"Russia, Turkey & Other Europe",cv,440533
+2023,"Russia, Turkey & Other Europe",pc,2152788
+2023,"Russia, Turkey & Other Europe",cv,617708
 2020,Total Oica Members,pc,47930408
 2020,Total Oica Members,cv,22005464
 2021,Total Oica Members,pc,49761621
 2021,Total Oica Members,cv,22957816
+2022,Total Oica Members,pc,50750646
+2022,Total Oica Members,cv,20698323
+2023,Total Oica Members,pc,57013311
+2023,Total Oica Members,cv,23489638.996696945
+2022,Usmca (Former Nafta),pc,3604020
+2022,Usmca (Former Nafta),cv,13323712
+2023,Usmca (Former Nafta),pc,3976897
+2023,Usmca (Former Nafta),cv,15210808
